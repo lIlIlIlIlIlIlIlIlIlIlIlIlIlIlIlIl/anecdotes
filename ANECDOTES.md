@@ -125,6 +125,7 @@
 - La France est le pays ayant obtenu le plus de médailles Fields, distinction internationale majeure en mathématiques.
 - La guillotine était encore utilisée en France lors de la sortie du premier film Star Wars en 1977.
 - La Révolution française a mis en place le système métrique, qui s'est ensuite imposé comme norme internationale dans la majorité des pays.
+- La Révolution française a mis en place en 1793 le calendrier révolutionnaire, qui divisait l’année en 12 mois de 30 jours inspirés de la nature — Vendémiaire (sept.–oct.), Brumaire (oct.–nov.), Frimaire (nov.–déc.), Nivôse (déc.–janv.), Pluviôse (janv.–févr.), Ventôse (févr.–mars), Germinal (mars–avr.), Floréal (avr.–mai), Prairial (mai–juin), Messidor (juin–juil.), Thermidor (juil.–août) et Fructidor (août–sept.) — complétés par 5 ou 6 "sans-culottides" ; la semaine de 7 jours y était remplacée par des décades de 10 jours, avant l’abandon du système en 1806.
 - Le dernier duel reconnu comme légal en France a eu lieu à Paris en 1967.
 - Une ancienne loi ou tradition juridique interdit d'appeler un cochon "Napoléon", bien qu'elle ne soit plus appliquée.
 
@@ -157,6 +158,12 @@
 - Dans l'Arkansas, une ancienne loi souvent citée autorisait un mari à battre sa femme une fois par mois ; elle est aujourd'hui juridiquement caduque et sans valeur légale.
 - Les bords crantés des pièces de monnaie ont été introduits pour empêcher le rognage, une fraude consistant à gratter les pièces en or ou en argent afin d'en récupérer le métal précieux.
 
+## 🗣️ Langues
+
+### 🔤 Alphabets & systèmes d’écriture
+
+- La Corée du Sud utilise un alphabet appelé "hangeul", l’un des rares au monde dont l’auteur et la date de création sont connus : il a été conçu au XVe siècle (1443–1446) à l’initiative du roi Sejong le Grand, avec l’aide de lettrés du Hall des Sages, afin de rendre la lecture et l’écriture accessibles à l’ensemble de la population.
+
 ## 🌿 Nature, sciences & univers
 
 ### 🪐 Astronomie & planètes
@@ -180,6 +187,7 @@
 
 ### 🧠 Mathématiques & logique
 
+- Ada Lovelace (1815–1852), mathématicienne britannique, a créé en 1843 un algorithme destiné à être exécuté par la machine analytique de Charles Babbage, faisant d’elle la première programmeuse théorique de l’histoire.
 - Le théorème des quatre couleurs affirme que quatre couleurs suffisent pour colorier n'importe quelle carte, réelle ou imaginaire, sans que deux régions adjacentes partagent la même couleur ; sa démonstration en 1976 figure parmi les premières validations de théorèmes mathématiques réalisées par des machines, grâce à des calculs informatiques.
 
 ### 🧪 Physique & sciences fondamentales

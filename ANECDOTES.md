@@ -157,6 +157,7 @@
 
 - Dans l'Arkansas, une ancienne loi souvent citée autorisait un mari à battre sa femme une fois par mois ; elle est aujourd'hui juridiquement caduque et sans valeur légale.
 - Les bords crantés des pièces de monnaie ont été introduits pour empêcher le rognage, une fraude consistant à gratter les pièces en or ou en argent afin d'en récupérer le métal précieux.
+- Steve Jobs, adopté à la naissance et fils biologique d’un syrien est parfois présenté à tort comme étant né sous le nom "عبد اللطيف الجندلي" (Abd al-Latif al-Jandali), alors qu’il n’a jamais porté ce nom et a toujours conservé celui donné par sa famille adoptive.
 
 ## 🗣️ Langues
 
@@ -184,6 +185,7 @@
 
 - Le cerveau ne ressent pas directement la douleur, car il ne possède pas de récepteurs nociceptifs, ce qui permet des opérations cérébrales sur des patients éveillés sous conditions médicales strictes.
 - Les souvenirs ne sont pas "relus" mais réécrits à chaque rappel, ce qui les modifie progressivement.
+- Si deux jumeaux monozygotes ont des enfants avec deux jumelles monozygotes, alors leurs enfants sont génétiquement des frères et sœurs (environ 50 % d’ADN en commun), tout en restant juridiquement des cousins.
 
 ### 🧠 Mathématiques & logique
 

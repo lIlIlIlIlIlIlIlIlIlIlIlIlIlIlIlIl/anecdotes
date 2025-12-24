@@ -78,12 +78,14 @@
 - La plus longue frontière internationale au monde sépare le Canada et les États-Unis, sur environ 8 900 kilomètres en incluant les portions terrestres et aquatiques.
 - La plus longue frontière terrestre continue au monde sépare la Russie et le Kazakhstan sur environ 7 600 kilomètres.
 - La Sibérie est plus vaste que le Canada en superficie.
+- Le Danube est le fleuve qui traverse ou borde le plus grand nombre de pays au monde, avec dix États européens sur son parcours.
 - Le Four Corners Monument est le point officiellement reconnu où se rencontrent quatre États américains : l'Arizona, l'Utah, le Colorado et le Nouveau-Mexique.
 - Le Kazakhstan est le plus grand pays du monde sans accès direct à la mer.
 - Le Lesotho est entièrement entouré par un seul pays, l'Afrique du Sud : c'est l'unique État au monde dans ce cas.
 - Les îles Diomède, séparées de moins de 4 km, sont divisées par la ligne internationale de changement de date, créant près de 24 heures de décalage.
 - L'Espagne possède une frontière terrestre avec le Maroc via les enclaves de Ceuta et Melilla.
 - L'Espagne possède une frontière terrestre avec le Royaume-Uni via Gibraltar.
+- Malgré son nom, la mer Caspienne est géographiquement un lac et, de surcroît, le plus vaste du monde.
 - Un condominium est un territoire placé sous souveraineté partagée par deux États ; l'île des Faisans alterne tous les six mois entre administrations française et espagnole, et les Nouvelles-Hébrides furent un condominium franco-britannique.
 - Une exclave est une partie d'un pays séparée du reste par d'autres États ; Kaliningrad est une exclave russe enclavée entre la Pologne et la Lituanie.
 
@@ -94,6 +96,8 @@
 - La Paz est la capitale la plus haute du monde, perchée à environ 3 650 mètres d'altitude.
 - La statue de la Liberté est située dans les eaux territoriales du New Jersey, mais l'île sur laquelle elle se trouve relève juridiquement de l'État de New York.
 - New York est située plus au sud que Rome : la ville américaine se trouve à une latitude d'environ 40,7° nord, contre 41,9° nord pour Rome.
+- Reykjavik est la capitale souveraine la plus au nord du monde, située à environ 64° de latitude nord.
+- Wellington est la capitale souveraine la plus au sud du monde, située à environ 41° de latitude sud.
 
 ## 🏛️ Histoire
 
@@ -113,6 +117,7 @@
 #### 👑 Pouvoirs & institutions
 
 - Charles VIII est mort en 1498 après un traumatisme crânien causé par un choc contre un linteau de porte au château d'Amboise.
+- L’épouse de Napoléon Bonaparte, connue sous le nom de Joséphine, s’appelait en réalité Marie-Josèphe Rose Tascher de La Pagerie ; appelée "Rose" avant son mariage, elle fut renommée "Joséphine" par Napoléon, qui n’aimait pas ce prénom et conserva ensuite ce nom dans l’histoire.
 - Le président français est le seul chef d'État encore co-prince d'un autre pays (Andorre).
 - Les cœurs des rois de France étaient souvent enterrés séparément de leur corps, selon un usage funéraire aristocratique courant.
 - Louis X serait mort en 1316 peu après avoir bu du vin très froid à l'issue d'un match de jeu de paume, selon les chroniques médiévales.
@@ -121,6 +126,7 @@
 
 #### 👥 Société
 
+- En France, le coût de fabrication d’une pièce de 1 centime d’euro dépasse sa valeur faciale.
 - La France dispose de l'un des plus vastes réseaux diplomatiques au monde, à égalité avec les États-Unis.
 - La France est le pays ayant obtenu le plus de médailles Fields, distinction internationale majeure en mathématiques.
 - La guillotine était encore utilisée en France lors de la sortie du premier film Star Wars en 1977.
@@ -138,6 +144,7 @@
 
 #### 🏺 Cultures
 
+- Contrairement à la légende, il n’existe aucune preuve que Néron ait provoqué l’incendie de Rome en 64.
 - Les Vikings ne portaient pas de casques à cornes ; cette représentation est une invention du XIXᵉ siècle, popularisée par l'art et l'opéra.
 
 #### ⚔️ Guerres & conflits
@@ -147,6 +154,7 @@
 - Le Japon et la Russie n'ont jamais conclu de traité de paix mettant officiellement fin à la Seconde Guerre mondiale, en raison d'un différend territorial persistant sur les îles Kouriles.
 - Le Liechtenstein a envoyé 80 soldats lors de la guerre austro-prussienne de 1866 ; ils sont tous rentrés indemnes, accompagnés d'un homme supplémentaire rencontré en route, devenant ainsi l'un des rares pays à revenir d'une guerre avec un effectif supérieur à celui engagé au départ.
 - Les deux Corées n'ont jamais signé de traité de paix depuis 1953 : la guerre de Corée est toujours officiellement suspendue par un armistice, pas terminée juridiquement.
+- Lors de la campagne de Russie en 1812, Napoléon Bonaparte fit imprimer de faux billets russes pour financer ses troupes et tenter d’affaiblir l’économie du pays, sans réel succès.
 
 #### 👑 Pouvoirs & institutions
 
@@ -156,6 +164,7 @@
 #### 👥 Société
 
 - Dans l'Arkansas, une ancienne loi souvent citée autorisait un mari à battre sa femme une fois par mois ; elle est aujourd'hui juridiquement caduque et sans valeur légale.
+- Du XVIIᵉ au XIXᵉ siècle, dans plusieurs villes européennes, des plaques de rues et enseignes en cuivre, laiton ou plomb étaient volées par des habitants modestes pour être revendues à des fondeurs, car le métal valait plus que l’objet, poussant certaines municipalités à les remplacer par de la pierre ou de la peinture.
 - Les bords crantés des pièces de monnaie ont été introduits pour empêcher le rognage, une fraude consistant à gratter les pièces en or ou en argent afin d'en récupérer le métal précieux.
 - Steve Jobs, adopté à la naissance et fils biologique d’un syrien est parfois présenté à tort comme étant né sous le nom "عبد اللطيف الجندلي" (Abd al-Latif al-Jandali), alors qu’il n’a jamais porté ce nom et a toujours conservé celui donné par sa famille adoptive.
 
@@ -164,6 +173,11 @@
 ### 🔤 Alphabets & systèmes d’écriture
 
 - La Corée du Sud utilise un alphabet appelé "hangeul", l’un des rares au monde dont l’auteur et la date de création sont connus : il a été conçu au XVe siècle (1443–1446) à l’initiative du roi Sejong le Grand, avec l’aide de lettrés du Hall des Sages, afin de rendre la lecture et l’écriture accessibles à l’ensemble de la population.
+
+### 📜 Expressions & étymologie
+
+- Environ 30 à 40 % du vocabulaire de l’anglais moderne est d’origine française ou franco-normande, conséquence directe de la conquête normande de 1066.
+- L’expression "toucher le pactole" vient de la Pactole, une rivière de l’Antiquité située dans l’actuelle Turquie, près de l’ancienne ville de Sardes, dont les alluvions contenaient naturellement de l’or, ce qui a durablement associé son nom à l’idée de richesse soudaine.
 
 ## 🌿 Nature, sciences & univers
 
@@ -190,6 +204,7 @@
 ### 🧠 Mathématiques & logique
 
 - Ada Lovelace (1815–1852), mathématicienne britannique, a créé en 1843 un algorithme destiné à être exécuté par la machine analytique de Charles Babbage, faisant d’elle la première programmeuse théorique de l’histoire.
+- Il existe bien plus de permutations possibles d’un jeu de 52 cartes que de secondes écoulées depuis la naissance de l’Univers.
 - Le théorème des quatre couleurs affirme que quatre couleurs suffisent pour colorier n'importe quelle carte, réelle ou imaginaire, sans que deux régions adjacentes partagent la même couleur ; sa démonstration en 1976 figure parmi les premières validations de théorèmes mathématiques réalisées par des machines, grâce à des calculs informatiques.
 
 ### 🧪 Physique & sciences fondamentales
@@ -197,11 +212,15 @@
 - Il existe plus de parties possibles aux échecs que d'atomes estimés dans l'univers observable.
 - La lumière du Soleil met environ 8 minutes pour atteindre la Terre, en raison de la distance moyenne d'environ 150 millions de kilomètres.
 - Les atomes qui composent le corps humain sont plus vieux que le Soleil, car ils ont été formés dans des étoiles antérieures ayant explosé avant la formation du système solaire.
+- Une flamme ne projette pas d’ombre nette comme un objet solide, car elle est constituée de gaz lumineux et translucides, mais elle peut néanmoins produire une ombre très faible et diffuse dans certaines conditions d’éclairage.
 
 ### 🌋 Terre & phénomènes naturels
 
 - Il existe davantage de volcans actifs sous la mer que sur les continents, la majorité de l'activité volcanique terrestre se produisant le long des dorsales océaniques.
+- Le Kilimandjaro est à la fois le plus haut volcan et la plus haute montagne d’Afrique, culminant à 5 895 mètres.
+- Le lac Baïkal est le lac le plus profond du monde (environ 1 642 mètres) et contient à lui seul environ 20 % de toute l’eau douce liquide non gelée de la planète.
 - Le lac Hillier, en Australie, est naturellement rose en raison de micro-organismes présents dans l'eau.
+- Le Nil est traditionnellement considéré comme le fleuve le plus long du monde, bien que certaines mesures attribuent ce titre à l’Amazone, qui reste en revanche le fleuve le plus puissant par son débit.
 
 ### 🐜 Zoologie
 

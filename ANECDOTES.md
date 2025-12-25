@@ -83,6 +83,7 @@
 - Le Kazakhstan est le plus grand pays du monde sans accès direct à la mer.
 - Le Lesotho est entièrement entouré par un seul pays, l'Afrique du Sud : c'est l'unique État au monde dans ce cas.
 - Les îles Diomède, séparées de moins de 4 km, sont divisées par la ligne internationale de changement de date, créant près de 24 heures de décalage.
+- Les monts Oural sont traditionnellement considérés comme la frontière naturelle entre l’Europe et l’Asie, séparant les deux continents à travers la Russie.
 - L'Espagne possède une frontière terrestre avec le Maroc via les enclaves de Ceuta et Melilla.
 - L'Espagne possède une frontière terrestre avec le Royaume-Uni via Gibraltar.
 - Malgré son nom, la mer Caspienne est géographiquement un lac et, de surcroît, le plus vaste du monde.
@@ -192,7 +193,10 @@
 - La fraise moderne est issue d'un croisement réalisé au XVIIIᵉ siècle entre des variétés européennes et américaines ; certaines fraises anciennes étaient blanches, et ces variétés existent encore aujourd'hui.
 - La vanille est le fruit d'une orchidée tropicale du genre "Vanilla", ce qui en fait l'une des rares épices issues de cette famille botanique.
 - Le coco correspond à l'endocarpe dur du fruit du cocotier, tandis que la véritable noix de coco est la graine située à l'intérieur, ce qui explique la confusion entre le fruit entier et la noix consommée.
+- Le mégalodon a coexisté avec certains des plus anciens hominidés connus, apparus plusieurs millions d’années avant son extinction, sans qu’il n’y ait jamais eu de rencontre possible entre eux.
+- Le Tyrannosaurus rex est plus proche de notre époque que de celle du Stégosaure, car nous sommes séparés de lui par environ 66 millions d’années, tandis qu’environ 85 à 90 millions d’années le séparent du Stégosaure.
 - Les fraises ne sont pas des baies d'un point de vue botanique, contrairement aux bananes, qui remplissent bien les critères scientifiques d'une baie.
+- Les monotrèmes constituent le seul groupe de mammifères ovipares actuels, comprenant l’ornithorynque et quatre espèces d’échidnés.
 - Les requins existaient avant les arbres, les premiers requins étant apparus il y a plus de 400 millions d'années.
 
 ### 🧬 Corps humain & neurosciences
@@ -217,6 +221,8 @@
 ### 🌋 Terre & phénomènes naturels
 
 - Il existe davantage de volcans actifs sous la mer que sur les continents, la majorité de l'activité volcanique terrestre se produisant le long des dorsales océaniques.
+- La projection de Mercator déforme fortement la taille des pays : elle agrandit les régions proches des pôles, donnant par exemple l’illusion que le Groenland est comparable à l’Afrique, alors qu’en réalité l’Afrique est environ quatorze fois plus grande.
+- Le désert de Lut (Dasht-e Lut), en Iran, est considéré comme le désert le plus chaud du monde, avec des températures de surface mesurées par satellite pouvant dépasser 70 °C.
 - Le Kilimandjaro est à la fois le plus haut volcan et la plus haute montagne d’Afrique, culminant à 5 895 mètres.
 - Le lac Baïkal est le lac le plus profond du monde (environ 1 642 mètres) et contient à lui seul environ 20 % de toute l’eau douce liquide non gelée de la planète.
 - Le lac Hillier, en Australie, est naturellement rose en raison de micro-organismes présents dans l'eau.

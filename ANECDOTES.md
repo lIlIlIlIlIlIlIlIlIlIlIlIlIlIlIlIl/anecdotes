@@ -9,7 +9,8 @@
 ### 🖌️ Arts visuels
 
 - Les cornes de Moïse dans certaines sculptures médiévales viennent d'une erreur de traduction, due au mot hébreu "qeren" pouvant signifier "rayon" ou "corne".
-- Pablo Picasso aurait produit entre 50 000 et 60 000 œuvres au cours de sa vie, ce qui correspond, selon les estimations, à une moyenne proche de deux créations par jour sur l’ensemble de sa carrière.
+- Pablo Picasso aurait produit entre 50 000 et 60 000 œuvres au cours de sa vie, ce qui correspond, selon les estimations, à une moyenne proche de deux créations par jour sur l'ensemble de sa carrière.
+- Salvador Dalí et Vincent van Gogh portaient chacun le prénom d'un frère mort-né.
 
 ### 🎬 Cinéma
 
@@ -165,7 +166,7 @@
 
 #### 👥 Société
 
-- Dans l'Arkansas, une ancienne loi souvent citée autorisait un mari à battre sa femme une fois par mois ; elle est aujourd’hui considérée comme apocryphe ou juridiquement caduque.
+- Dans l'Arkansas, une ancienne loi souvent citée autorisait un mari à battre sa femme une fois par mois ; elle est aujourd'hui considérée comme apocryphe ou juridiquement caduque.
 - Du XVIIᵉ au XIXᵉ siècle, dans plusieurs villes européennes, des plaques de rues et enseignes en cuivre, laiton ou plomb étaient volées par des habitants modestes pour être revendues à des fondeurs, car le métal valait plus que l'objet, poussant certaines municipalités à les remplacer par de la pierre ou de la peinture.
 - Les bords crantés des pièces de monnaie ont été introduits pour empêcher le rognage, une fraude consistant à gratter les pièces en or ou en argent afin d'en récupérer le métal précieux.
 - Steve Jobs, adopté à la naissance et fils biologique d'un syrien est parfois présenté à tort comme étant né sous le nom "عبد اللطيف الجندلي" (Abd al-Latif al-Jandali), alors qu'il n'a jamais porté ce nom et a toujours conservé celui donné par sa famille adoptive.
@@ -231,6 +232,7 @@
 
 ### 🐜 Zoologie
 
+- La chauve-souris est le seul mammifère capable de voler.
 - Les fourmis n'ont pas de poumons : elles respirent grâce à un système de trachées qui amènent directement l'oxygène aux cellules, sans passer par le sang.
 
 ## 🏆 Sports & records
@@ -238,16 +240,28 @@
 ### 🏃 Athlétisme
 
 - La distance du marathon (42,195 km) provient du tracé précis de la course des Jeux olympiques de Londres en 1908, reliant le château de Windsor au stade olympique de White City, avant d'être officiellement standardisée par la suite.
+- Le record du monde du marathon est détenu par Kelvin Kiptum, qui a parcouru les 42,195 km en 2 h 00 min 35 s le 8 octobre 2023, lors du Marathon de Chicago.
 
 ### 🏀 Basketball
 
 - En 1962, Wilt Chamberlain a inscrit 100 points en un seul match de NBA, un record historique qui n'a jamais été approché depuis.
 
+### 🥌 Curling
+
+- Les pierres de curling de compétition sont fabriquées presque exclusivement à partir d'un granit extrait sur l'île écossaise d'Ailsa Craig.
+
 ### ⚽ Football
 
 - Au football, les cartons jaunes reçus pendant le match ne sont pas cumulés avec ceux donnés lors d'une séance de tirs au but, car celle-ci constitue une phase réglementaire distincte ; un joueur peut donc recevoir un avertissement dans chaque phase sans être automatiquement expulsé.
 - En 1994, la finale Brésil–Italie se termine 0–0 ; le Brésil devient champion du monde après la séance de tirs au but, sans but inscrit dans le match.
+- Fondé en 1857, Sheffield FC est officiellement reconnu comme le plus ancien club de football de l'histoire, existant avant même que les règles modernes du jeu ne soient écrites.
+- Lionel Messi est le seul footballeur de l'histoire à avoir remporté tous les titres majeurs au moins une fois, incluant la Coupe du monde, une compétition continentale avec sa sélection (Copa América), la Ligue des champions, un championnat national, une coupe nationale, une supercoupe nationale, une supercoupe continentale, les Jeux olympiques et le Ballon d'Or.
 - Rogério Ceni, gardien de football brésilien, a marqué 131 buts officiels au cours de sa carrière, principalement sur coups francs et penalties, établissant un record absolu à ce poste.
+
+### 🏊 Natation
+
+- Michael Phelps détient le record absolu de médailles olympiques pour un seul athlète, avec 28 médailles (dont 23 en or), remportées entre les Jeux olympiques de 2004 et 2016.
+- Michael Phelps détient le record du plus grand nombre de médailles remportées lors d'une seule olympiade, avec 8 médailles d'or, aux Jeux olympiques de Pékin en 2008.
 
 ### 🏎️ Sport automobile
 
@@ -257,4 +271,5 @@
 
 - Au tennis, en anglais, "love" signifie zéro ; l'origine la plus souvent avancée est un lien avec le mot français "l'œuf", utilisé pour symboliser le zéro, bien que cette étymologie ne soit pas formellement prouvée.
 - Le match de tennis le plus long de l'histoire a opposé John Isner à Nicolas Mahut à Wimbledon en 2010 : 11 heures et 5 minutes de jeu réparties sur trois jours, conclues par un cinquième set remporté 70–68.
+- Novak Djokovic est le seul tennisman de l'histoire à avoir remporté tous les titres majeurs en simple au moins une fois, incluant les quatre tournois du Grand Chelem, les neuf Masters 1000, les Finales ATP, la Coupe Davis et une médaille d'or olympique.
 - Roger Federer a remporté la finale de Wimbledon 2009 contre Andy Roddick sur le score de 5–7, 7–6, 7–6, 3–6, 16–14, malgré un total de points inférieur : 147 points pour Federer contre 152 pour Roddick.

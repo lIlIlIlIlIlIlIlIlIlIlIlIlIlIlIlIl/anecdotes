@@ -179,8 +179,10 @@
 
 ### 📜 Expressions & étymologie
 
+- En français, Soleil, Terre, Lune, etc. (planètes, satellites naturels, astres nommés) prennent une majuscule lorsqu'ils désignent des objets astronomiques précis, mais une minuscule lorsqu'ils sont employés dans un sens commun, symbolique ou mythologique, comme les jours, les divinités ou des expressions figurées.
 - Environ 30 à 40 % du vocabulaire de l'anglais moderne est d'origine française ou franco-normande, conséquence directe de la conquête normande de 1066.
 - L'expression "toucher le pactole" vient de la Pactole, une rivière de l'Antiquité située dans l'actuelle Turquie, près de l'ancienne ville de Sardes, dont les alluvions contenaient naturellement de l'or, ce qui a durablement associé son nom à l'idée de richesse soudaine.
+- Le français compte quelques mots dont le genre change selon le nombre : amour, délice et orgue sont masculins au singulier mais féminins au pluriel.
 
 ## 🌿 Nature, sciences & univers
 

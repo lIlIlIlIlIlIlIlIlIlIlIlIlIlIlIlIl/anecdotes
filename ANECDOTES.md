@@ -14,6 +14,7 @@
 
 ### 🎬 Cinéma
 
+- Dans l'histoire des Oscars, seuls deux acteurs ont été récompensés à titre posthume : Peter Finch en 1977 pour son rôle d'Howard Beale dans Network et Heath Ledger en 2009 pour son rôle du Joker dans The Dark Knight.
 - La France a joué un rôle fondateur dans l'histoire du cinéma avec les frères Lumière, qui ont organisé à la fin du XIXᵉ siècle les premières projections publiques payantes.
 - Le Seigneur des Anneaux : Le Retour du Roi est l'un des trois films les plus oscarisés de l'histoire avec 11 Oscars, sans qu'aucun acteur ou actrice de son casting n'ait reçu de récompense individuelle.
 
@@ -51,6 +52,7 @@
 - La France possède des frontières terrestres avec le Brésil et le Suriname via la Guyane française.
 - La France possède le plus long réseau de sentiers de grande randonnée balisés d'Europe.
 - La France possède plus de fuseaux horaires que tout autre pays, en raison de ses territoires répartis sur l'ensemble du globe.
+- L'Ardèche est le seul département français sans autoroute, sans gare SNCF voyageurs et sans aéroport.
 
 #### 🏗️ Infrastructures
 

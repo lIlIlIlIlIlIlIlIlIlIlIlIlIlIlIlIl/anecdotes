@@ -28,7 +28,7 @@
 
 ### 🎵 Musique
 
-- Le saxophone est un instrument à bois, car le son qu’il produit provient de la vibration d’une anche en roseau, et non du matériau métallique qui le compose.
+- Le saxophone est un instrument à bois, car le son qu'il produit provient de la vibration d'une anche en roseau, et non du matériau métallique qui le compose.
 
 ### 🖥️ Symboles & technologies
 
@@ -52,11 +52,15 @@
 
 #### 🌐 Frontières & territoires
 
+- Arles est la plus grande commune de France, avec une superficie d'environ 759 km².
+- Castelmoron-d’Albret est la plus petite commune de France, avec une superficie d’environ 0,037 km², soit 3,7 hectares.
 - La France détient le plus grand domaine maritime du monde grâce à l'ensemble de ses zones économiques exclusives liées à ses territoires d'outre-mer.
 - La France possède des frontières terrestres avec le Brésil et le Suriname via la Guyane française.
 - La France possède le plus long réseau de sentiers de grande randonnée balisés d'Europe.
 - La France possède plus de fuseaux horaires que tout autre pays, en raison de ses territoires répartis sur l'ensemble du globe.
+- La Guyane est le plus grand département français, avec une superficie d'environ 83 846 km².
 - L'Ardèche est le seul département français sans autoroute, sans gare SNCF voyageurs et sans aéroport.
+- Marseille est la plus grande ville de France, avec une superficie d'environ 240 km².
 
 #### 🏗️ Infrastructures
 

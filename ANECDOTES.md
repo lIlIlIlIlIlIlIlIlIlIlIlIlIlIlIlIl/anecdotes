@@ -26,6 +26,10 @@
 - Le kiwi est à la fois l'oiseau national et le surnom des habitants de la Nouvelle-Zélande, malgré le fait que l'oiseau soit nocturne, incapable de voler et extrêmement discret.
 - Le phénix est l'emblème de la ville de San Francisco, adopté après le séisme de 1906 pour symboliser la renaissance de la ville après la destruction.
 
+### 🎵 Musique
+
+- Le saxophone est un instrument à bois, car le son qu’il produit provient de la vibration d’une anche en roseau, et non du matériau métallique qui le compose.
+
 ### 🖥️ Symboles & technologies
 
 - Le bouton "power" ⏻ est une combinaison de 1 et 0, représentant respectivement "allumé" et "éteint" selon la norme binaire internationale.
@@ -90,7 +94,7 @@
 - L'Espagne possède une frontière terrestre avec le Maroc via les enclaves de Ceuta et Melilla.
 - L'Espagne possède une frontière terrestre avec le Royaume-Uni via Gibraltar.
 - Malgré son nom, la mer Caspienne est géographiquement un lac et, de surcroît, le plus vaste du monde.
-- Un condominium est un territoire placé sous souveraineté partagée par deux États ; l'île des Faisans alterne tous les six mois entre administrations française et espagnole, et les Nouvelles-Hébrides furent un condominium franco-britannique.
+- Un condominium est un territoire placé sous souveraineté partagée par deux États ; par exemple, l'île des Faisans alterne tous les six mois entre administrations française et espagnole, et les Nouvelles-Hébrides furent un condominium franco-britannique.
 - Une exclave est une partie d'un pays séparée du reste par d'autres États ; Kaliningrad est une exclave russe enclavée entre la Pologne et la Lituanie.
 
 #### 🏙️ Villes & capitales

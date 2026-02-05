@@ -53,7 +53,7 @@
 #### 🌐 Frontières & territoires
 
 - Arles est la plus grande commune de France, avec une superficie d'environ 759 km².
-- Castelmoron-d’Albret est la plus petite commune de France, avec une superficie d’environ 0,037 km², soit 3,7 hectares.
+- Castelmoron-d'Albret est la plus petite commune de France, avec une superficie d'environ 0,037 km², soit 3,7 hectares.
 - La France détient le plus grand domaine maritime du monde grâce à l'ensemble de ses zones économiques exclusives liées à ses territoires d'outre-mer.
 - La France possède des frontières terrestres avec le Brésil et le Suriname via la Guyane française.
 - La France possède le plus long réseau de sentiers de grande randonnée balisés d'Europe.
@@ -65,6 +65,7 @@
 #### 🏗️ Infrastructures
 
 - Châtelet–Les Halles est le plus grand complexe de transport souterrain d'Europe en termes de fréquentation et d'interconnexion.
+- Le niveau zéro de la mer en France est défini à partir des mesures du marégraphe de Marseille.
 - Le point zéro des routes de France se situe officiellement sur le parvis de Notre-Dame de Paris.
 - Le Pont-Neuf est le plus ancien pont de Paris encore debout, achevé au début du XVIIᵉ siècle.
 - Le TGV français a été le premier système de train à grande vitesse exploité de manière durable et économiquement viable à grande échelle.
@@ -139,6 +140,7 @@
 
 #### 👥 Société
 
+- En droit français, on parle d'associés dans une société, et de sociétaires dans une association.
 - La France dispose de l'un des plus vastes réseaux diplomatiques au monde, à égalité avec les États-Unis.
 - La France est le pays ayant obtenu le plus de médailles Fields, distinction internationale majeure en mathématiques.
 - La guillotine était encore utilisée en France lors de la sortie du premier film Star Wars en 1977.
@@ -231,6 +233,7 @@
 - La lumière du Soleil met environ 8 minutes pour atteindre la Terre, en raison de la distance moyenne d'environ 150 millions de kilomètres.
 - Les atomes qui composent le corps humain sont plus vieux que le Soleil, car ils ont été formés dans des étoiles antérieures ayant explosé avant la formation du système solaire.
 - Une flamme ne projette pas d'ombre nette comme un objet solide, car elle est constituée de gaz lumineux et translucides, mais elle peut néanmoins produire une ombre très faible et diffuse dans certaines conditions d'éclairage.
+- Parmi les échelles scientifiques les plus connues figurent celles de Beaufort (vitesse moyenne du vent), Borg (perception de l'effort), Douglas (état de la mer), Fujita (intensité des tornades), Glasgow (niveau de conscience), INES (gravité des accidents nucléaires), Kelvin (température absolue), Mercalli (intensité des séismes), Mohs (dureté des minéraux), Ramsey (sédation), Richter (magnitude des séismes), Saffir-Simpson (intensité des ouragans), Schmidt (douleur des piqûres d'insectes), Scoville (intensité du piquant des piments) et Turin (risque d'impact d'objets géocroiseurs).
 
 ### 🌋 Terre & phénomènes naturels
 

@@ -170,6 +170,7 @@
 - Le Liechtenstein a envoyé 80 soldats lors de la guerre austro-prussienne de 1866 ; ils sont tous rentrés indemnes, accompagnés d'un homme supplémentaire rencontré en route, devenant ainsi l'un des rares pays à revenir d'une guerre avec un effectif supérieur à celui engagé au départ.
 - Les deux Corées n'ont jamais signé de traité de paix depuis 1953 : la guerre de Corée est toujours officiellement suspendue par un armistice, pas terminée juridiquement.
 - Lors de la campagne de Russie en 1812, Napoléon Bonaparte fit imprimer de faux billets russes pour financer ses troupes et tenter d'affaiblir l'économie du pays, sans réel succès.
+- Pendant la Seconde Guerre mondiale, le bâtiment du Grand Orient de France à Paris a été réquisitionné par l'occupant nazi et utilisé par des services allemands, notamment le renseignement SS, la franc-maçonnerie étant considérée comme un ennemi idéologique du régime.
 
 #### 👑 Pouvoirs & institutions
 
@@ -188,6 +189,7 @@
 ### 🔤 Alphabets & systèmes d'écriture
 
 - La Corée du Sud utilise un alphabet appelé "hangeul", l'un des rares au monde dont l'auteur et la date de création sont connus : il a été conçu au XVe siècle (1443–1446) à l'initiative du roi Sejong le Grand, avec l'aide de lettrés du Hall des Sages, afin de rendre la lecture et l'écriture accessibles à l'ensemble de la population.
+- Le tittle est le nom typographique du point au-dessus des lettres i et j.
 
 ### 📜 Expressions & étymologie
 
@@ -217,6 +219,7 @@
 
 ### 🧬 Corps humain & neurosciences
 
+- Il existe une zone du visage, appelée le "triangle de la mort", située entre l'arête du nez et les commissures des lèvres, où une infection peut, dans de rares cas, se propager vers le cerveau via des veines directement connectées aux sinus veineux intracrâniens.
 - Le cerveau ne ressent pas directement la douleur, car il ne possède pas de récepteurs nociceptifs, ce qui permet des opérations cérébrales sur des patients éveillés sous conditions médicales strictes.
 - Les souvenirs ne sont pas "relus" mais réécrits à chaque rappel, ce qui les modifie progressivement.
 - Si deux jumeaux monozygotes ont des enfants avec deux jumelles monozygotes, alors leurs enfants sont génétiquement des frères et sœurs (environ 50 % d'ADN en commun), tout en restant juridiquement des cousins.
@@ -248,6 +251,7 @@
 ### 🐜 Zoologie
 
 - La chauve-souris est le seul mammifère capable de voler.
+- La faucheuse n'est pas une araignée, mais un opilion, un arachnide distinct qui ne produit ni soie ni venin.
 - Les fourmis n'ont pas de poumons : elles respirent grâce à un système de trachées qui amènent directement l'oxygène aux cellules, sans passer par le sang.
 
 ## 🏆 Sports & records

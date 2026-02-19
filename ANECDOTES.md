@@ -76,10 +76,11 @@
 
 - Aucun drapeau national officiel n'utilise le violet comme couleur.
 - Certains drapeaux nationaux présentent un recto et un verso différents ; le drapeau du Paraguay en est l'exemple le plus connu, avec des emblèmes distincts sur chaque face.
-- Le drapeau de l'Arabie saoudite ne peut jamais être mis en berne, car il porte une profession de foi religieuse.
+- Le drapeau de l'Arabie saoudite est le seul drapeau national au monde qui ne peut jamais être mis en berne, car il porte une profession de foi religieuse.
 - Le drapeau de la Jamaïque est le seul drapeau national au monde à ne contenir ni bleu, ni blanc, ni rouge.
-- Le drapeau du Mozambique est le seul drapeau national à représenter une arme moderne, en l'occurrence un fusil d'assaut AK-47.
-- Le drapeau du Népal est le seul drapeau national non rectangulaire.
+- Le drapeau des Philippines est le seul drapeau national au monde à changer officiellement en cas de guerre, la bande rouge passant au-dessus de la bande bleue, alors qu'en temps de paix la bande bleue est placée au-dessus de la bande rouge.
+- Le drapeau du Mozambique est le seul drapeau national au monde à représenter une arme moderne, en l'occurrence un fusil d'assaut AK-47.
+- Le drapeau du Népal est le seul drapeau national au monde non rectangulaire.
 
 #### 🌐 Frontières & territoires
 
@@ -174,6 +175,7 @@
 
 #### 👑 Pouvoirs & institutions
 
+- En 1976, lorsque la momie de Ramsès II fut envoyée en France pour des travaux de conservation, les autorités françaises demandèrent une régularisation administrative de son entrée sur le territoire, ce qui conduisit l'Égypte à lui délivrer un passeport diplomatique symbolique, plus de 3 100 ans après sa mort.
 - La devise officielle du souverain britannique est "Dieu et mon droit" ; elle est en français et non en anglais, en raison de l'héritage normand de la monarchie.
 - Le Vatican est le seul État au monde dont l'armée officielle est composée exclusivement de ressortissants étrangers.
 
@@ -202,6 +204,7 @@
 
 ### 🪐 Astronomie & planètes
 
+- En 1996, Claudie Haigneré est devenue la première Française à voyager dans l'espace.
 - Les aiguilles d'une montre tournent dans le sens horaire en référence au mouvement observé sur les cadrans solaires de l'hémisphère nord.
 - Un jour sur Vénus est plus long qu'une année sur Vénus, en raison de la rotation extrêmement lente de la planète sur elle-même.
 
@@ -209,6 +212,7 @@
 
 - L'arbre qui produit le kaki s'appelle le plaqueminier.
 - La fraise moderne est issue d'un croisement réalisé au XVIIIᵉ siècle entre des variétés européennes et américaines ; certaines fraises anciennes étaient blanches, et ces variétés existent encore aujourd'hui.
+- La musaraigne-éléphant est génétiquement plus proche de l'éléphant que de la souris.
 - La vanille est le fruit d'une orchidée tropicale du genre "Vanilla", ce qui en fait l'une des rares épices issues de cette famille botanique.
 - Le coco correspond à l'endocarpe dur du fruit du cocotier, tandis que la véritable noix de coco est la graine située à l'intérieur, ce qui explique la confusion entre le fruit entier et la noix consommée.
 - Le mégalodon a coexisté avec certains des plus anciens hominidés connus, apparus plusieurs millions d'années avant son extinction, sans qu'il n'y ait jamais eu de rencontre possible entre eux.

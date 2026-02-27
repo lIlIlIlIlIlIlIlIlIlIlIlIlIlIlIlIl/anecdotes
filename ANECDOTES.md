@@ -78,6 +78,7 @@
 - Certains drapeaux nationaux présentent un recto et un verso différents ; le drapeau du Paraguay en est l'exemple le plus connu, avec des emblèmes distincts sur chaque face.
 - Le drapeau de l'Arabie saoudite est le seul drapeau national au monde qui ne peut jamais être mis en berne, car il porte une profession de foi religieuse.
 - Le drapeau de la Jamaïque est le seul drapeau national au monde à ne contenir ni bleu, ni blanc, ni rouge.
+- Le drapeau de la République dominicaine est le seul drapeau national au monde sur lequel figure une Bible, représentée dans ses armoiries centrales.
 - Le drapeau des Philippines est le seul drapeau national au monde à changer officiellement en cas de guerre, la bande rouge passant au-dessus de la bande bleue, alors qu'en temps de paix la bande bleue est placée au-dessus de la bande rouge.
 - Le drapeau du Mozambique est le seul drapeau national au monde à représenter une arme moderne, en l'occurrence un fusil d'assaut AK-47.
 - Le drapeau du Népal est le seul drapeau national au monde non rectangulaire.
@@ -224,6 +225,7 @@
 ### 🧬 Corps humain & neurosciences
 
 - Il existe une zone du visage, appelée le "triangle de la mort", située entre l'arête du nez et les commissures des lèvres, où une infection peut, dans de rares cas, se propager vers le cerveau via des veines directement connectées aux sinus veineux intracrâniens.
+- La cornée est le seul tissu du corps humain normalement dépourvu de vaisseaux sanguins, elle reçoit l'oxygène et les nutriments par diffusion, c'est-à-dire par passage direct des molécules depuis les larmes et les liquides de l'œil vers ses cellules, ce qui lui permet de rester transparente.
 - Le cerveau ne ressent pas directement la douleur, car il ne possède pas de récepteurs nociceptifs, ce qui permet des opérations cérébrales sur des patients éveillés sous conditions médicales strictes.
 - Les souvenirs ne sont pas "relus" mais réécrits à chaque rappel, ce qui les modifie progressivement.
 - Si deux jumeaux monozygotes ont des enfants avec deux jumelles monozygotes, alors leurs enfants sont génétiquement des frères et sœurs (environ 50 % d'ADN en commun), tout en restant juridiquement des cousins.
@@ -232,25 +234,34 @@
 
 - Ada Lovelace (1815–1852), mathématicienne britannique, a créé en 1843 un algorithme destiné à être exécuté par la machine analytique de Charles Babbage, faisant d'elle la première programmeuse théorique de l'histoire.
 - Il existe bien plus de permutations possibles d'un jeu de 52 cartes que de secondes écoulées depuis la naissance de l'Univers.
+- La "maladie du Nobel" est une expression informelle désignant le phénomène par lequel certains lauréats du prix Nobel défendent, après leur récompense, des idées scientifiques controversées en dehors de leur domaine de compétence.
 - Le théorème des quatre couleurs affirme que quatre couleurs suffisent pour colorier n'importe quelle carte, réelle ou imaginaire, sans que deux régions adjacentes partagent la même couleur ; sa démonstration en 1976 figure parmi les premières validations de théorèmes mathématiques réalisées par des machines, grâce à des calculs informatiques.
 
 ### 🧪 Physique & sciences fondamentales
 
 - Il existe plus de parties possibles aux échecs que d'atomes estimés dans l'univers observable.
+- L'astate est l'élément naturel le plus rare de la croûte terrestre : issu de la désintégration de l'uranium et du thorium, il est si radioactif et instable qu'on estime qu'il n'en existe, à un instant donné, que quelques grammes à quelques dizaines de grammes au maximum sur toute la Terre.
+- L'hydrogène est l'élément le plus abondant de l'Univers : il représente environ 75 % de la masse de la matière baryonique et plus de 90 % du nombre total d'atomes.
+- L'oxygène est l'élément le plus abondant de la croûte terrestre : il représente environ 46 % de sa masse et constitue une part majeure des roches, du manteau et de l'eau.
 - La lumière du Soleil met environ 8 minutes pour atteindre la Terre, en raison de la distance moyenne d'environ 150 millions de kilomètres.
 - Les atomes qui composent le corps humain sont plus vieux que le Soleil, car ils ont été formés dans des étoiles antérieures ayant explosé avant la formation du système solaire.
-- Une flamme ne projette pas d'ombre nette comme un objet solide, car elle est constituée de gaz lumineux et translucides, mais elle peut néanmoins produire une ombre très faible et diffuse dans certaines conditions d'éclairage.
 - Parmi les échelles scientifiques les plus connues figurent celles de Beaufort (vitesse moyenne du vent), Borg (perception de l'effort), Douglas (état de la mer), Fujita (intensité des tornades), Glasgow (niveau de conscience), INES (gravité des accidents nucléaires), Kelvin (température absolue), Mercalli (intensité des séismes), Mohs (dureté des minéraux), Ramsey (sédation), Richter (magnitude des séismes), Saffir-Simpson (intensité des ouragans), Schmidt (douleur des piqûres d'insectes), Scoville (intensité du piquant des piments) et Turin (risque d'impact d'objets géocroiseurs).
+- Une flamme ne projette pas d'ombre nette comme un objet solide, car elle est constituée de gaz lumineux et translucides, mais elle peut néanmoins produire une ombre très faible et diffuse dans certaines conditions d'éclairage.
 
 ### 🌋 Terre & phénomènes naturels
 
 - Il existe davantage de volcans actifs sous la mer que sur les continents, la majorité de l'activité volcanique terrestre se produisant le long des dorsales océaniques.
+- L'Amazone ne possède aucun pont qui traverse son cours principal.
+- La fosse des Mariannes est la zone la plus profonde connue des océans : son point le plus bas, le Challenger Deep, est estimé à environ 10 920 à 10 935 mètres sous le niveau de la mer, dans l'ouest de l'océan Pacifique.
+- La Pangée est un ancien supercontinent dont la formation est estimée à environ 335 millions d'années et dont la fragmentation a commencé il y a environ 175 à 200 millions d'années.
 - La projection de Mercator déforme fortement la taille des pays : elle agrandit les régions proches des pôles, donnant par exemple l'illusion que le Groenland est comparable à l'Afrique, alors qu'en réalité l'Afrique est environ quatorze fois plus grande.
 - Le désert de Lut (Dasht-e Lut), en Iran, est considéré comme le désert le plus chaud du monde, avec des températures de surface mesurées par satellite pouvant dépasser 70 °C.
 - Le Kilimandjaro est à la fois le plus haut volcan et la plus haute montagne d'Afrique, culminant à 5 895 mètres.
 - Le lac Baïkal est le lac le plus profond du monde (environ 1 642 mètres) et contient à lui seul environ 20 % de toute l'eau douce liquide non gelée de la planète.
 - Le lac Hillier, en Australie, est naturellement rose en raison de micro-organismes présents dans l'eau.
 - Le Nil est traditionnellement considéré comme le fleuve le plus long du monde, bien que certaines mesures attribuent ce titre à l'Amazone, qui reste en revanche le fleuve le plus puissant par son débit.
+- Le point Némo, officiellement appelé pôle océanique d'inaccessibilité, est l'endroit des océans le plus éloigné de toute terre émergée : il se situe dans le Pacifique Sud, à environ 2 688 kilomètres des côtes les plus proches.
+- Rodinia est un ancien supercontinent, dont la formation est estimée à environ un milliard d'années et la fragmentation à environ 750 millions d'années, bien avant la Pangée.
 
 ### 🐜 Zoologie
 

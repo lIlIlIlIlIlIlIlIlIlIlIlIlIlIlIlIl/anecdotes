@@ -54,12 +54,12 @@
 
 - Arles est la plus grande commune de France, avec une superficie d'environ 759 km².
 - Castelmoron-d'Albret est la plus petite commune de France, avec une superficie d'environ 0,037 km², soit 3,7 hectares.
+- L'Ardèche est le seul département français sans autoroute, sans gare SNCF voyageurs et sans aéroport.
 - La France détient le plus grand domaine maritime du monde grâce à l'ensemble de ses zones économiques exclusives liées à ses territoires d'outre-mer.
 - La France possède des frontières terrestres avec le Brésil et le Suriname via la Guyane française.
 - La France possède le plus long réseau de sentiers de grande randonnée balisés d'Europe.
 - La France possède plus de fuseaux horaires que tout autre pays, en raison de ses territoires répartis sur l'ensemble du globe.
 - La Guyane est le plus grand département français, avec une superficie d'environ 83 846 km².
-- L'Ardèche est le seul département français sans autoroute, sans gare SNCF voyageurs et sans aéroport.
 - Marseille est la plus grande ville de France, avec une superficie d'environ 240 km².
 
 #### 🏗️ Infrastructures
@@ -86,8 +86,9 @@
 #### 🌐 Frontières & territoires
 
 - L'Australie est plus vaste en superficie que Pluton (Australie ≈ 7,7 millions de km² ; Pluton mis à plat ≈ 4,4 millions de km²).
+- L'Espagne possède des frontières terrestres avec le Maroc (via les enclaves de Ceuta et Melilla) et avec le Royaume-Uni (via Gibraltar).
 - La Bolivie possède une marine militaire malgré la perte de son accès à la mer à la suite de la guerre du Pacifique au XIXᵉ siècle.
-- La Chine partage des frontières terrestres avec 14 pays, ce qui en fait l'un des États ayant le plus de voisins au monde.
+- La Chine et la Russie ont chacune des frontières terrestres avec 14 pays, ce qui en fait les deux États comptant le plus grand nombre de voisins au monde.
 - La frontière terrestre internationale la plus courte au monde se situe entre le Botswana et la Zambie : elle mesure environ 150 mètres seulement.
 - La plus longue frontière internationale au monde sépare le Canada et les États-Unis, sur environ 8 900 kilomètres en incluant les portions terrestres et aquatiques.
 - La plus longue frontière terrestre continue au monde sépare la Russie et le Kazakhstan sur environ 7 600 kilomètres.
@@ -98,8 +99,6 @@
 - Le Lesotho est entièrement entouré par un seul pays, l'Afrique du Sud : c'est l'unique État au monde dans ce cas.
 - Les îles Diomède, séparées de moins de 4 km, sont divisées par la ligne internationale de changement de date, créant près de 24 heures de décalage.
 - Les monts Oural sont traditionnellement considérés comme la frontière naturelle entre l'Europe et l'Asie, séparant les deux continents à travers la Russie.
-- L'Espagne possède une frontière terrestre avec le Maroc via les enclaves de Ceuta et Melilla.
-- L'Espagne possède une frontière terrestre avec le Royaume-Uni via Gibraltar.
 - Malgré son nom, la mer Caspienne est géographiquement un lac et, de surcroît, le plus vaste du monde.
 - Un condominium est un territoire placé sous souveraineté partagée par deux États ; par exemple, l'île des Faisans alterne tous les six mois entre administrations française et espagnole, et les Nouvelles-Hébrides furent un condominium franco-britannique.
 - Une exclave est une partie d'un pays séparée du reste par d'autres États ; Kaliningrad est une exclave russe enclavée entre la Pologne et la Lituanie.
@@ -120,8 +119,8 @@
 
 #### 🏰 Patrimoine
 
-- La France est le pays qui compte le plus de sites inscrits au patrimoine culturel immatériel de l'UNESCO.
 - La France est l'un des pays qui compte le plus grand nombre de cathédrales médiévales conservées, de châteaux et de ronds-points au monde.
+- La France est le pays qui compte le plus de sites inscrits au patrimoine culturel immatériel de l'UNESCO.
 - La statue de la Liberté a été conçue et en grande partie fabriquée à Paris avant d'être assemblée et inaugurée à New York.
 - La tour Eiffel, conçue pour dépasser la butte Montmartre, est devenue en 1889 la structure la plus haute de Paris et du monde à l'époque.
 - La tour Eiffel devait être démontée après l'Exposition universelle de 1889, mais elle a été conservée notamment pour son intérêt scientifique et ses usages en télécommunications.
@@ -132,8 +131,8 @@
 #### 👑 Pouvoirs & institutions
 
 - Charles VIII est mort en 1498 après un traumatisme crânien causé par un choc contre un linteau de porte au château d'Amboise.
-- La loi du 9 décembre 1905 sur la séparation des Églises et de l'État ne s'applique pas en Alsace-Moselle, car la région était allemande à cette date et a conservé son droit local lors de son retour à la France en 1918, où le Concordat de 1801 demeure en vigueur.
 - L'épouse de Napoléon Bonaparte, connue sous le nom de Joséphine, s'appelait en réalité Marie-Josèphe Rose Tascher de La Pagerie ; appelée "Rose" avant son mariage, elle fut renommée "Joséphine" par Napoléon, qui n'aimait pas ce prénom et conserva ensuite ce nom dans l'histoire.
+- La loi du 9 décembre 1905 sur la séparation des Églises et de l'État ne s'applique pas en Alsace-Moselle, car la région était allemande à cette date et a conservé son droit local lors de son retour à la France en 1918, où le Concordat de 1801 demeure en vigueur.
 - Le président français est le seul chef d'État encore co-prince d'un autre pays (Andorre).
 - Les cœurs des rois de France étaient souvent enterrés séparément de leur corps, selon un usage funéraire aristocratique courant.
 - Louis X serait mort en 1316 peu après avoir bu du vin très froid à l'issue d'un match de jeu de paume, selon les chroniques médiévales.
@@ -146,8 +145,8 @@
 - La France dispose de l'un des plus vastes réseaux diplomatiques au monde, à égalité avec les États-Unis.
 - La France est le pays ayant obtenu le plus de médailles Fields, distinction internationale majeure en mathématiques.
 - La guillotine était encore utilisée en France lors de la sortie du premier film Star Wars en 1977.
-- La Révolution française a mis en place le système métrique, qui s'est ensuite imposé comme norme internationale dans la majorité des pays.
 - La Révolution française a mis en place en 1793 le calendrier révolutionnaire, qui divisait l'année en 12 mois de 30 jours inspirés de la nature — Vendémiaire (sept.–oct.), Brumaire (oct.–nov.), Frimaire (nov.–déc.), Nivôse (déc.–janv.), Pluviôse (janv.–févr.), Ventôse (févr.–mars), Germinal (mars–avr.), Floréal (avr.–mai), Prairial (mai–juin), Messidor (juin–juil.), Thermidor (juil.–août) et Fructidor (août–sept.) — complétés par 5 ou 6 "sans-culottides" ; la semaine de 7 jours y était remplacée par des décades de 10 jours, avant l'abandon du système en 1806.
+- La Révolution française a mis en place le système métrique, qui s'est ensuite imposé comme norme internationale dans la majorité des pays.
 - Le coût de fabrication d'une pièce de 1 centime d'euro dépasse sa valeur faciale.
 - Le dernier duel reconnu comme légal en France a eu lieu à Paris en 1967.
 - Une ancienne tradition juridique ou certaines décisions locales ont parfois interdit d'appeler un cochon "Napoléon", une interdiction qui n'est aujourd'hui plus en vigueur.
@@ -200,6 +199,17 @@
 - Environ 30 à 40 % du vocabulaire de l'anglais moderne est d'origine française ou franco-normande, conséquence directe de la conquête normande de 1066.
 - L'expression "toucher le pactole" vient de la Pactole, une rivière de l'Antiquité située dans l'actuelle Turquie, près de l'ancienne ville de Sardes, dont les alluvions contenaient naturellement de l'or, ce qui a durablement associé son nom à l'idée de richesse soudaine.
 - Le français compte quelques mots dont le genre change selon le nombre : amour, délice et orgue sont masculins au singulier mais féminins au pluriel.
+
+### 📘 Vocabulaire
+
+- En français, il existe des termes spécifiques pour les deux derniers rangs d'une série : "pénultième" (avant-dernier) et "antépénultième" (avant-avant-dernier).
+- La glabelle est la zone lisse du front située entre les deux sourcils, au-dessus de la racine du nez.
+- La lunule est le croissant blanc visible à la base des ongles.
+- Le pétrichor est l'odeur caractéristique dégagée par la terre sèche après la pluie.
+- Le philtrum est le sillon vertical situé entre la base du nez et la lèvre supérieure.
+- Le psithurisme est le bruissement du vent dans les feuilles des arbres.
+- Un ardillon est la petite tige métallique d'une boucle de ceinture qui s'engage dans les trous de la sangle.
+- Un numismate est un collectionneur ou spécialiste des monnaies et médailles.
 
 ## 🌿 Nature, sciences & univers
 

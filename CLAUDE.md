@@ -23,7 +23,8 @@
 
 ## Style
 
-- One sentence per anecdote, concise and synthetic — include only the most essential elements.
-- Encyclopedic, neutral, assertive tone.
+- One sentence per anecdote, concise and synthetic; include only the most essential elements.
+- Encyclopedic, neutral, assertive tone; always prefer the simplest and most professional phrasing.
+- Never use em dashes (`—`); use commas, semicolons, or colons instead.
 - Precise figures with ranges where appropriate.
 - Common structure: main fact + causal explanation (`, car`, `: `, `;`).

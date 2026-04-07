@@ -277,6 +277,7 @@
 
 - La chauve-souris est le seul mammifère capable de voler.
 - La faucheuse n'est pas une araignée, mais un opilion, un arachnide distinct qui ne produit ni soie ni venin.
+- Le requin du Groenland détient le record de longévité parmi les vertébrés connus, avec une espérance de vie estimée à environ 400 ans et n'atteint la maturité sexuelle qu'aux alentours de 150 ans.
 - Les fourmis n'ont pas de poumons : elles respirent grâce à un système de trachées qui amènent directement l'oxygène aux cellules, sans passer par le sang.
 
 ## 🏆 Sports & records
@@ -296,7 +297,10 @@
 
 ### ⚽ Football
 
+- Au football, le terme "poker" peut être utilisé pour désigner un quadruplé.
 - Au football, les cartons jaunes reçus pendant le match ne sont pas cumulés avec ceux donnés lors d'une séance de tirs au but, car celle-ci constitue une phase réglementaire distincte ; un joueur peut donc recevoir un avertissement dans chaque phase sans être automatiquement expulsé.
+- Au football, un "but olympique" est un but inscrit directement sur corner sans touche intermédiaire ; l'expression naît en 1924, lorsque l'Argentin Cesáreo Onzari marque ainsi contre l'Uruguay, alors champion olympique en titre.
+- Au football, une "trivela" est une technique de frappe avec l'extérieur du pied qui confère au ballon un effet courbe prononcé.
 - En 1994, la finale Brésil–Italie se termine 0–0 ; le Brésil devient champion du monde après la séance de tirs au but, sans but inscrit dans le match.
 - Fondé en 1857, Sheffield FC est officiellement reconnu comme le plus ancien club de football de l'histoire, existant avant même que les règles modernes du jeu ne soient écrites.
 - Lionel Messi est le seul footballeur de l'histoire à avoir remporté tous les titres majeurs au moins une fois, incluant la Coupe du monde, une compétition continentale avec sa sélection (Copa América), la Ligue des champions, un championnat national, une coupe nationale, une supercoupe nationale, une supercoupe continentale, les Jeux olympiques et le Ballon d'Or.

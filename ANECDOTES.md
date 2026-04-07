@@ -107,6 +107,7 @@
 
 - À Manhattan, la logique et la typographie des noms de rues changent de part et d'autre de Houston Street : au nord, les rues sont numérotées selon le plan en grille du XIXᵉ siècle, tandis qu'au sud, elles portent des noms historiques variés, marquant la transition entre un Manhattan ancien et un Manhattan planifié.
 - Bakou est la capitale la plus basse du monde, située à environ 28 mètres sous le niveau de la mer.
+- Central Park s'étend sur environ 3,4 km², soit une superficie supérieure à celle de la principauté de Monaco qui s'étend sur environ 2 km².
 - La Paz est la capitale la plus haute du monde, perchée à environ 3 650 mètres d'altitude.
 - La statue de la Liberté est située dans les eaux territoriales du New Jersey, mais l'île sur laquelle elle se trouve relève juridiquement de l'État de New York.
 - New York est située plus au sud que Rome : la ville américaine se trouve à une latitude d'environ 40,7° nord, contre 41,9° nord pour Rome.
@@ -198,6 +199,7 @@
 - En français, Soleil, Terre, Lune, etc. (planètes, satellites naturels, astres nommés) prennent une majuscule lorsqu'ils désignent des objets astronomiques précis, mais une minuscule lorsqu'ils sont employés dans un sens commun, symbolique ou mythologique, comme les jours, les divinités ou des expressions figurées.
 - Environ 30 à 40 % du vocabulaire de l'anglais moderne est d'origine française ou franco-normande, conséquence directe de la conquête normande de 1066.
 - L'expression "toucher le pactole" vient de la Pactole, une rivière de l'Antiquité située dans l'actuelle Turquie, près de l'ancienne ville de Sardes, dont les alluvions contenaient naturellement de l'or, ce qui a durablement associé son nom à l'idée de richesse soudaine.
+- La Bolivie est le pays comptant le plus grand nombre de langues officielles au monde : sa constitution de 2009 en reconnaît 37, dont l'espagnol et 36 langues indigènes.
 - Le français compte quelques mots dont le genre change selon le nombre : amour, délice et orgue sont masculins au singulier mais féminins au pluriel.
 
 ### 📘 Vocabulaire
@@ -205,9 +207,11 @@
 - En français, il existe des termes spécifiques pour les deux derniers rangs d'une série : "pénultième" (avant-dernier) et "antépénultième" (avant-avant-dernier).
 - La glabelle est la zone lisse du front située entre les deux sourcils, au-dessus de la racine du nez.
 - La lunule est le croissant blanc visible à la base des ongles.
+- La sérendipité est le fait de faire par hasard une découverte inattendue qui s'avère ensuite fructueuse.
 - Le pétrichor est l'odeur caractéristique dégagée par la terre sèche après la pluie.
 - Le philtrum est le sillon vertical situé entre la base du nez et la lèvre supérieure.
 - Le psithurisme est le bruissement du vent dans les feuilles des arbres.
+- Le terme "lusophone" désigne les personnes ou pays parlant le portugais.
 - Un ardillon est la petite tige métallique d'une boucle de ceinture qui s'engage dans les trous de la sangle.
 - Un numismate est un collectionneur ou spécialiste des monnaies et médailles.
 
@@ -235,6 +239,7 @@
 ### 🧬 Corps humain & neurosciences
 
 - Il existe une zone du visage, appelée le "triangle de la mort", située entre l'arête du nez et les commissures des lèvres, où une infection peut, dans de rares cas, se propager vers le cerveau via des veines directement connectées aux sinus veineux intracrâniens.
+- L'ulna, anciennement appelé cubitus, est l'un des deux os de l'avant-bras.
 - La cornée est le seul tissu du corps humain normalement dépourvu de vaisseaux sanguins, elle reçoit l'oxygène et les nutriments par diffusion, c'est-à-dire par passage direct des molécules depuis les larmes et les liquides de l'œil vers ses cellules, ce qui lui permet de rester transparente.
 - Le cerveau ne ressent pas directement la douleur, car il ne possède pas de récepteurs nociceptifs, ce qui permet des opérations cérébrales sur des patients éveillés sous conditions médicales strictes.
 - Les souvenirs ne sont pas "relus" mais réécrits à chaque rappel, ce qui les modifie progressivement.
@@ -277,6 +282,7 @@
 
 - La chauve-souris est le seul mammifère capable de voler.
 - La faucheuse n'est pas une araignée, mais un opilion, un arachnide distinct qui ne produit ni soie ni venin.
+- La ligne Wallace est une frontière biogéographique en Indonésie qui sépare la faune asiatique de la faune australienne, bien que les îles de Bali et de Lombok, situées de part et d'autre, ne soient séparées que d'environ 35 kilomètres.
 - Le requin du Groenland détient le record de longévité parmi les vertébrés connus, avec une espérance de vie estimée à environ 400 ans et n'atteint la maturité sexuelle qu'aux alentours de 150 ans.
 - Les fourmis n'ont pas de poumons : elles respirent grâce à un système de trachées qui amènent directement l'oxygène aux cellules, sans passer par le sang.
 
@@ -284,7 +290,6 @@
 
 ### 🏃 Athlétisme
 
-- La distance du marathon (42,195 km) provient du tracé précis de la course des Jeux olympiques de Londres en 1908, reliant le château de Windsor au stade olympique de White City, avant d'être officiellement standardisée par la suite.
 - Le record du monde du marathon est détenu par Kelvin Kiptum, qui a parcouru les 42,195 km en 2 h 00 min 35 s le 8 octobre 2023, lors du Marathon de Chicago.
 
 ### 🏀 Basketball
@@ -306,7 +311,17 @@
 - Lionel Messi est le seul footballeur de l'histoire à avoir remporté tous les titres majeurs au moins une fois, incluant la Coupe du monde, une compétition continentale avec sa sélection (Copa América), la Ligue des champions, un championnat national, une coupe nationale, une supercoupe nationale, une supercoupe continentale, les Jeux olympiques et le Ballon d'Or.
 - Rogério Ceni, gardien de football brésilien, a marqué 131 buts officiels au cours de sa carrière, principalement sur coups francs et penalties, établissant un record absolu à ce poste.
 
-### 🏊 Natation
+### 🥇 Jeux olympiques
+
+#### 🏃 Athlétisme
+
+- La distance du marathon (42,195 km) provient du tracé précis de la course des Jeux olympiques de Londres en 1908, reliant le château de Windsor au stade olympique de White City, avant d'être officiellement standardisée par la suite.
+
+#### 🚩 Nations
+
+- Lors des Jeux olympiques de Tokyo 2020, Saint-Marin a remporté 3 médailles (1 or, 1 argent, 1 bronze), ses premières de son histoire, affichant le meilleur ratio de médailles par habitant de l'histoire des Jeux olympiques avec environ 88 médailles pour un million d'habitants.
+
+#### 🏊 Natation
 
 - Michael Phelps détient le record absolu de médailles olympiques pour un seul athlète, avec 28 médailles (dont 23 en or), remportées entre les Jeux olympiques de 2004 et 2016.
 - Michael Phelps détient le record du plus grand nombre de médailles remportées lors d'une seule olympiade, avec 8 médailles d'or, aux Jeux olympiques de Pékin en 2008.

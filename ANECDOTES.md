@@ -36,6 +36,7 @@
 - Le nom "Bluetooth" vient du roi viking Harald "à la dent bleue" (Harald Bluetooth), qui a unifié le Danemark et la Norvège au Xe siècle ; la technologie a été ainsi nommée pour symboliser l'unification de différents appareils, et son logo est la fusion de deux runes nordiques correspondant aux initiales H et B.
 - Le symbole @ s'appelait "arrobe" bien avant Internet : il désignait au Moyen Âge une unité de poids et de volume utilisée en Espagne et au Portugal.
 - Le symbole ♀ et ♂ viennent de l'astronomie, représentant respectivement Vénus et Mars ; ils ont ensuite été repris en alchimie avant de devenir des symboles de genre.
+- Les tirets longs sont appelés "tirets cadratins" (—) car leur largeur correspond à l'unité typographique "cadratin", soit traditionnellement la largeur de la lettre M majuscule.
 
 ## 🍽️ Gastronomie
 
@@ -131,7 +132,9 @@
 
 #### 👑 Pouvoirs & institutions
 
+- Charles de Gaulle a eu des rues et des places portant son nom de son vivant, faisant de lui une exception remarquable à la tradition française qui veut que les lieux publics ne soient pas nommés d'après des personnes encore en vie.
 - Charles VIII est mort en 1498 après un traumatisme crânien causé par un choc contre un linteau de porte au château d'Amboise.
+- En cas d'égalité parfaite de voix dans les scrutins majoritaires uninominaux en France, le code électoral prévoit que le candidat le plus âgé est déclaré élu, une règle qui s'applique notamment aux élections législatives et aux municipales dans les communes de moins de 1 000 habitants.
 - L'épouse de Napoléon Bonaparte, connue sous le nom de Joséphine, s'appelait en réalité Marie-Josèphe Rose Tascher de La Pagerie ; appelée "Rose" avant son mariage, elle fut renommée "Joséphine" par Napoléon, qui n'aimait pas ce prénom et conserva ensuite ce nom dans l'histoire.
 - La loi du 9 décembre 1905 sur la séparation des Églises et de l'État ne s'applique pas en Alsace-Moselle, car la région était allemande à cette date et a conservé son droit local lors de son retour à la France en 1918, où le Concordat de 1801 demeure en vigueur.
 - Le président français est le seul chef d'État encore co-prince d'un autre pays (Andorre).
@@ -163,11 +166,13 @@
 
 - Contrairement à la légende, il n'existe aucune preuve que Néron ait provoqué l'incendie de Rome en 64.
 - Les Vikings ne portaient pas de casques à cornes ; cette représentation est une invention du XIXᵉ siècle, popularisée par l'art et l'opéra.
+- Traditionnellement, on monte à cheval par le côté gauche, une pratique héritée des chevaliers médiévaux qui portaient leur épée à la hanche gauche : monter par la droite aurait risqué d'accrocher l'arme dans la selle.
 
 #### ⚔️ Guerres & conflits
 
 - La guerre la plus courte de l'Histoire documentée a opposé le Royaume-Uni à Zanzibar en 1896 et a duré entre 38 et 45 minutes.
 - La guerre la plus longue de l'Histoire documentée a opposé les Pays-Bas aux îles Scilly : déclarée en 1651, elle ne fut officiellement terminée qu'en 1986, après 335 ans, sans qu'aucun combat n'ait jamais eu lieu.
+- Le "Demon Core" était une sphère de plutonium de 6,2 kg issue du projet Manhattan qui provoqua deux accidents de criticité nucléaire à Los Alamos en 1945 et 1946, causant chaque fois la mort de l'opérateur exposé.
 - Le Japon et la Russie n'ont jamais conclu de traité de paix mettant officiellement fin à la Seconde Guerre mondiale, en raison d'un différend territorial persistant sur les îles Kouriles.
 - Le Liechtenstein a envoyé 80 soldats lors de la guerre austro-prussienne de 1866 ; ils sont tous rentrés indemnes, accompagnés d'un homme supplémentaire rencontré en route, devenant ainsi l'un des rares pays à revenir d'une guerre avec un effectif supérieur à celui engagé au départ.
 - Les deux Corées n'ont jamais signé de traité de paix depuis 1953 : la guerre de Corée est toujours officiellement suspendue par un armistice, pas terminée juridiquement.
@@ -178,6 +183,7 @@
 
 - En 1976, lorsque la momie de Ramsès II fut envoyée en France pour des travaux de conservation, les autorités françaises demandèrent une régularisation administrative de son entrée sur le territoire, ce qui conduisit l'Égypte à lui délivrer un passeport diplomatique symbolique, plus de 3 100 ans après sa mort.
 - La devise officielle du souverain britannique est "Dieu et mon droit" ; elle est en français et non en anglais, en raison de l'héritage normand de la monarchie.
+- Le Bohemian Grove est un campement privé situé en Californie, organisé chaque juillet depuis 1878 par le Bohemian Club de San Francisco, réunissant des présidents américains, des dirigeants d'entreprise et d'autres personnalités influentes lors d'un séjour de deux semaines.
 - Le Vatican est le seul État au monde dont l'armée officielle est composée exclusivement de ressortissants étrangers.
 
 #### 👥 Société
@@ -205,6 +211,7 @@
 ### 📘 Vocabulaire
 
 - En français, il existe des termes spécifiques pour les deux derniers rangs d'une série : "pénultième" (avant-dernier) et "antépénultième" (avant-avant-dernier).
+- L'anhédonie est l'incapacité à ressentir du plaisir, souvent associée à certains troubles comme la dépression.
 - La glabelle est la zone lisse du front située entre les deux sourcils, au-dessus de la racine du nez.
 - La lunule est le croissant blanc visible à la base des ongles.
 - La sérendipité est le fait de faire par hasard une découverte inattendue qui s'avère ensuite fructueuse.
@@ -213,19 +220,24 @@
 - Le psithurisme est le bruissement du vent dans les feuilles des arbres.
 - Le terme "lusophone" désigne les personnes ou pays parlant le portugais.
 - Un ardillon est la petite tige métallique d'une boucle de ceinture qui s'engage dans les trous de la sangle.
+- Un cuniculiculteur est une personne qui élève des lapins domestiques.
 - Un numismate est un collectionneur ou spécialiste des monnaies et médailles.
+- Une lapalissade désigne une vérité si évidente qu'elle en devient absurde à formuler.
 
 ## 🌿 Nature, sciences & univers
 
 ### 🪐 Astronomie & planètes
 
 - En 1996, Claudie Haigneré est devenue la première Française à voyager dans l'espace.
+- L'échelle de Kardashev, proposée par l'astronome soviétique Nikolaï Kardashev en 1964, classe les civilisations en trois niveaux selon leur consommation d'énergie (planétaire, stellaire, galactique), la civilisation humaine étant estimée à environ 0,73.
+- Le "Lahaina Noon", dont le nom signifie "soleil cruel" en hawaïen, est un phénomène qui se produit deux fois par an à Hawaï, lorsque le soleil est exactement au zénith et que les objets verticaux ne projettent aucune ombre.
 - Les aiguilles d'une montre tournent dans le sens horaire en référence au mouvement observé sur les cadrans solaires de l'hémisphère nord.
 - Un jour sur Vénus est plus long qu'une année sur Vénus, en raison de la rotation extrêmement lente de la planète sur elle-même.
 
 ### 🌱 Botanique & biologie
 
 - L'arbre qui produit le kaki s'appelle le plaqueminier.
+- L'odeur caractéristique des vieux livres provient en partie de la dégradation de la lignine contenue dans le papier, qui libère de la vanilline, le même composé chimique responsable de l'arôme de la vanille.
 - La fraise moderne est issue d'un croisement réalisé au XVIIIᵉ siècle entre des variétés européennes et américaines ; certaines fraises anciennes étaient blanches, et ces variétés existent encore aujourd'hui.
 - La musaraigne-éléphant est génétiquement plus proche de l'éléphant que de la souris.
 - La vanille est le fruit d'une orchidée tropicale du genre "Vanilla", ce qui en fait l'une des rares épices issues de cette famille botanique.
@@ -239,8 +251,12 @@
 ### 🧬 Corps humain & neurosciences
 
 - Il existe une zone du visage, appelée le "triangle de la mort", située entre l'arête du nez et les commissures des lèvres, où une infection peut, dans de rares cas, se propager vers le cerveau via des veines directement connectées aux sinus veineux intracrâniens.
+- L'effet de halo est un biais cognitif décrit par le psychologue Edward Thorndike en 1920, par lequel une caractéristique positive d'une personne influence favorablement la perception globale de sa personnalité.
+- L'effet Hawthorne désigne la tendance des individus à modifier leur comportement du seul fait d'être observés.
 - L'ulna, anciennement appelé cubitus, est l'un des deux os de l'avant-bras.
 - La cornée est le seul tissu du corps humain normalement dépourvu de vaisseaux sanguins, elle reçoit l'oxygène et les nutriments par diffusion, c'est-à-dire par passage direct des molécules depuis les larmes et les liquides de l'œil vers ses cellules, ce qui lui permet de rester transparente.
+- La ghréline est une hormone produite principalement par l"estomac qui stimule l"appétit en signalant au cerveau la sensation de faim.
+- Le cerveau filtre automatiquement les sons produits par nos organes, comme les battements du cœur ou les bruits digestifs, pour prévenir une surcharge sensorielle et maintenir l'attention sur l'environnement extérieur.
 - Le cerveau ne ressent pas directement la douleur, car il ne possède pas de récepteurs nociceptifs, ce qui permet des opérations cérébrales sur des patients éveillés sous conditions médicales strictes.
 - Les souvenirs ne sont pas "relus" mais réécrits à chaque rappel, ce qui les modifie progressivement.
 - Si deux jumeaux monozygotes ont des enfants avec deux jumelles monozygotes, alors leurs enfants sont génétiquement des frères et sœurs (environ 50 % d'ADN en commun), tout en restant juridiquement des cousins.
@@ -250,6 +266,7 @@
 - Ada Lovelace (1815–1852), mathématicienne britannique, a créé en 1843 un algorithme destiné à être exécuté par la machine analytique de Charles Babbage, faisant d'elle la première programmeuse théorique de l'histoire.
 - Il existe bien plus de permutations possibles d'un jeu de 52 cartes que de secondes écoulées depuis la naissance de l'Univers.
 - La "maladie du Nobel" est une expression informelle désignant le phénomène par lequel certains lauréats du prix Nobel défendent, après leur récompense, des idées scientifiques controversées en dehors de leur domaine de compétence.
+- Le paradoxe de Jevons, formulé par l'économiste britannique William Stanley Jevons en 1865, établit que rendre l'utilisation d'une ressource plus efficace tend à en augmenter la consommation globale, car l'efficacité en réduit le coût et encourage un usage plus intensif.
 - Le théorème des quatre couleurs affirme que quatre couleurs suffisent pour colorier n'importe quelle carte, réelle ou imaginaire, sans que deux régions adjacentes partagent la même couleur ; sa démonstration en 1976 figure parmi les premières validations de théorèmes mathématiques réalisées par des machines, grâce à des calculs informatiques.
 
 ### 🧪 Physique & sciences fondamentales
@@ -262,6 +279,13 @@
 - Les atomes qui composent le corps humain sont plus vieux que le Soleil, car ils ont été formés dans des étoiles antérieures ayant explosé avant la formation du système solaire.
 - Parmi les échelles scientifiques les plus connues figurent celles de Beaufort (vitesse moyenne du vent), Borg (perception de l'effort), Douglas (état de la mer), Fujita (intensité des tornades), Glasgow (niveau de conscience), INES (gravité des accidents nucléaires), Kelvin (température absolue), Mercalli (intensité des séismes), Mohs (dureté des minéraux), Ramsey (sédation), Richter (magnitude des séismes), Saffir-Simpson (intensité des ouragans), Schmidt (douleur des piqûres d'insectes), Scoville (intensité du piquant des piments) et Turin (risque d'impact d'objets géocroiseurs).
 - Une flamme ne projette pas d'ombre nette comme un objet solide, car elle est constituée de gaz lumineux et translucides, mais elle peut néanmoins produire une ombre très faible et diffuse dans certaines conditions d'éclairage.
+
+### 🩺 Syndromes & troubles
+
+- Le syndrome de Diogène, non reconnu comme diagnostic officiel, désigne un état d'isolement et d'accumulation compulsive de déchets.
+- Le syndrome de Peter Pan, non reconnu comme diagnostic officiel, désigne des adultes refusant psychologiquement de mûrir et fuyant toute responsabilité.
+- Le syndrome de Stendhal, non reconnu comme diagnostic officiel, désigne un état de malaise physique et émotionnel pouvant aller jusqu'à la syncope, provoqué par une confrontation intense avec des œuvres d'art majeures.
+- Le trouble de thésaurisation, reconnu comme diagnostic officiel dans le DSM-5 depuis 2013, désigne l'incapacité persistante à se défaire d'objets quelle que soit leur valeur réelle, entraînant une accumulation qui impacte le quotidien.
 
 ### 🌋 Terre & phénomènes naturels
 
@@ -326,8 +350,16 @@
 - Michael Phelps détient le record absolu de médailles olympiques pour un seul athlète, avec 28 médailles (dont 23 en or), remportées entre les Jeux olympiques de 2004 et 2016.
 - Michael Phelps détient le record du plus grand nombre de médailles remportées lors d'une seule olympiade, avec 8 médailles d'or, aux Jeux olympiques de Pékin en 2008.
 
+### 🏉 Rugby
+
+- L'écart de points le plus grand de l'histoire de la Coupe du monde de rugby est de 142 points, établi par l'Australie face à la Namibie (142-0) en 2003.
+- La "cuillère de bois" est un trophée fictif remis officieusement à l'équipe terminant dernière du Tournoi des Six Nations, une tradition héritée de l'université de Cambridge, où une cuillère de bois était remise au dernier classé du concours de mathématiques jusqu'au début du XXᵉ siècle.
+- Le record de points en un seul match de la Coupe du monde de rugby est 145-17, établi par la Nouvelle-Zélande face au Japon en 1995.
+- Le record de points marqués par un joueur en un seul match de la Coupe du monde de rugby est détenu par Simon Culhane, qui inscrit 45 points (1 essai, 20 transformations) lors du match Nouvelle-Zélande-Japon en 1995.
+
 ### 🏎️ Sport automobile
 
+- La course Paris-Rouen du 22 juillet 1894, organisée par "Le Petit Journal" sur environ 126 km, est reconnue comme la première course automobile officielle de l'histoire.
 - La Mille Miglia est souvent considérée comme la course automobile la plus longue jamais disputée, avec environ 1 600 km parcourus sur routes ouvertes en Italie.
 
 ### 🎾 Tennis

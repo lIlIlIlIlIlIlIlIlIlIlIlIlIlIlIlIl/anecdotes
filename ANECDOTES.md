@@ -90,6 +90,7 @@
 - L'Espagne possède des frontières terrestres avec le Maroc (via les enclaves de Ceuta et Melilla) et avec le Royaume-Uni (via Gibraltar).
 - La Bolivie possède une marine militaire malgré la perte de son accès à la mer à la suite de la guerre du Pacifique au XIXᵉ siècle.
 - La Chine et la Russie ont chacune des frontières terrestres avec 14 pays, ce qui en fait les deux États comptant le plus grand nombre de voisins au monde.
+- La côte est du Brésil est plus proche de l'Afrique occidentale (environ 2 900 km) que de la côte ouest du Brésil (environ 4 300 km), en raison de la forme convexe du continent sud-américain.
 - La frontière terrestre internationale la plus courte au monde se situe entre le Botswana et la Zambie : elle mesure environ 150 mètres seulement.
 - La plus longue frontière internationale au monde sépare le Canada et les États-Unis, sur environ 8 900 kilomètres en incluant les portions terrestres et aquatiques.
 - La plus longue frontière terrestre continue au monde sépare la Russie et le Kazakhstan sur environ 7 600 kilomètres.
@@ -111,6 +112,7 @@
 - Central Park s'étend sur environ 3,4 km², soit une superficie supérieure à celle de la principauté de Monaco qui s'étend sur environ 2 km².
 - La Paz est la capitale la plus haute du monde, perchée à environ 3 650 mètres d'altitude.
 - La statue de la Liberté est située dans les eaux territoriales du New Jersey, mais l'île sur laquelle elle se trouve relève juridiquement de l'État de New York.
+- Miami est plus à l'ouest que la quasi-totalité de l'Amérique du Sud : la ville se trouve à environ 80,2° de longitude ouest, contre seulement 74° ouest pour le point le plus occidental du Brésil.
 - New York est située plus au sud que Rome : la ville américaine se trouve à une latitude d'environ 40,7° nord, contre 41,9° nord pour Rome.
 - Reykjavik est la capitale souveraine la plus au nord du monde, située à environ 64° de latitude nord.
 - Wellington est la capitale souveraine la plus au sud du monde, située à environ 41° de latitude sud.
@@ -141,6 +143,7 @@
 - Les cœurs des rois de France étaient souvent enterrés séparément de leur corps, selon un usage funéraire aristocratique courant.
 - Louis X serait mort en 1316 peu après avoir bu du vin très froid à l'issue d'un match de jeu de paume, selon les chroniques médiévales.
 - Louis XIII avait une passion marquée pour les serrures et les mécanismes, documentée par des témoignages contemporains.
+- Napoléon Bonaparte est mort le 5 mai 1821, moins de trois ans avant que William Buckland ne décrive officiellement le premier fossile de dinosaure en 1824 : Napoléon n'a donc jamais su que les dinosaures avaient existé.
 - Philippe V a officiellement exclu les femmes de la succession au trône, établissant la loi salique dans le droit royal français.
 
 #### 👥 Société
@@ -165,6 +168,7 @@
 #### 🏺 Cultures
 
 - Contrairement à la légende, il n'existe aucune preuve que Néron ait provoqué l'incendie de Rome en 64.
+- Les Avars, peuple nomade établi dans le bassin des Carpates au VIᵉ siècle, sont considérés comme les introducteurs de l'étrier en Europe, une innovation qui transforma durablement les tactiques de cavalerie médiévale.
 - Les Vikings ne portaient pas de casques à cornes ; cette représentation est une invention du XIXᵉ siècle, popularisée par l'art et l'opéra.
 - Traditionnellement, on monte à cheval par le côté gauche, une pratique héritée des chevaliers médiévaux qui portaient leur épée à la hanche gauche : monter par la droite aurait risqué d'accrocher l'arme dans la selle.
 
@@ -221,6 +225,8 @@
 - Le terme "lusophone" désigne les personnes ou pays parlant le portugais.
 - Un ardillon est la petite tige métallique d'une boucle de ceinture qui s'engage dans les trous de la sangle.
 - Un cuniculiculteur est une personne qui élève des lapins domestiques.
+- Un herpétologiste est un spécialiste de l'étude des reptiles et des amphibiens.
+- Un hongre est un cheval mâle castré, le terme dérivant de "Hongrie", où cette pratique fut répandue par les Avars au VIᵉ siècle.
 - Un numismate est un collectionneur ou spécialiste des monnaies et médailles.
 - Une lapalissade désigne une vérité si évidente qu'elle en devient absurde à formuler.
 
@@ -256,6 +262,7 @@
 - L'ulna, anciennement appelé cubitus, est l'un des deux os de l'avant-bras.
 - La cornée est le seul tissu du corps humain normalement dépourvu de vaisseaux sanguins, elle reçoit l'oxygène et les nutriments par diffusion, c'est-à-dire par passage direct des molécules depuis les larmes et les liquides de l'œil vers ses cellules, ce qui lui permet de rester transparente.
 - La ghréline est une hormone produite principalement par l"estomac qui stimule l"appétit en signalant au cerveau la sensation de faim.
+- Le cerveau est l'organe le plus gras du corps humain, les lipides y constituant environ 55 à 60 % de sa masse sèche.
 - Le cerveau filtre automatiquement les sons produits par nos organes, comme les battements du cœur ou les bruits digestifs, pour prévenir une surcharge sensorielle et maintenir l'attention sur l'environnement extérieur.
 - Le cerveau ne ressent pas directement la douleur, car il ne possède pas de récepteurs nociceptifs, ce qui permet des opérations cérébrales sur des patients éveillés sous conditions médicales strictes.
 - Les souvenirs ne sont pas "relus" mais réécrits à chaque rappel, ce qui les modifie progressivement.
@@ -266,6 +273,7 @@
 - Ada Lovelace (1815–1852), mathématicienne britannique, a créé en 1843 un algorithme destiné à être exécuté par la machine analytique de Charles Babbage, faisant d'elle la première programmeuse théorique de l'histoire.
 - Il existe bien plus de permutations possibles d'un jeu de 52 cartes que de secondes écoulées depuis la naissance de l'Univers.
 - La "maladie du Nobel" est une expression informelle désignant le phénomène par lequel certains lauréats du prix Nobel défendent, après leur récompense, des idées scientifiques controversées en dehors de leur domaine de compétence.
+- La planche de Galton, conçue par Francis Galton au XIXᵉ siècle, démontre visuellement que la somme de nombreux événements aléatoires indépendants converge vers une loi normale : des billes lâchées à travers un réseau de clous s'accumulent spontanément en une courbe de Gauss.
 - Le paradoxe de Jevons, formulé par l'économiste britannique William Stanley Jevons en 1865, établit que rendre l'utilisation d'une ressource plus efficace tend à en augmenter la consommation globale, car l'efficacité en réduit le coût et encourage un usage plus intensif.
 - Le théorème des quatre couleurs affirme que quatre couleurs suffisent pour colorier n'importe quelle carte, réelle ou imaginaire, sans que deux régions adjacentes partagent la même couleur ; sa démonstration en 1976 figure parmi les premières validations de théorèmes mathématiques réalisées par des machines, grâce à des calculs informatiques.
 
@@ -299,15 +307,18 @@
 - Le lac Baïkal est le lac le plus profond du monde (environ 1 642 mètres) et contient à lui seul environ 20 % de toute l'eau douce liquide non gelée de la planète.
 - Le lac Hillier, en Australie, est naturellement rose en raison de micro-organismes présents dans l'eau.
 - Le Nil est traditionnellement considéré comme le fleuve le plus long du monde, bien que certaines mesures attribuent ce titre à l'Amazone, qui reste en revanche le fleuve le plus puissant par son débit.
-- Le point Némo, officiellement appelé pôle océanique d'inaccessibilité, est l'endroit des océans le plus éloigné de toute terre émergée : il se situe dans le Pacifique Sud, à environ 2 688 kilomètres des côtes les plus proches.
+- Le point Némo, officiellement appelé pôle océanique d'inaccessibilité, est l'endroit des océans le plus éloigné de toute terre émergée : situé dans le Pacifique Sud à environ 2 688 kilomètres des côtes les plus proches, il est, lorsque l'ISS passe à son zénith, plus proche des astronautes (environ 400 km) que de toute terre émergée.
 - Rodinia est un ancien supercontinent, dont la formation est estimée à environ un milliard d'années et la fragmentation à environ 750 millions d'années, bien avant la Pangée.
 
 ### 🐜 Zoologie
 
+- L'orvet est un lézard dépourvu de pattes, souvent confondu avec un serpent en raison de son corps allongé, mais il s'en distingue notamment par ses paupières mobiles.
 - La chauve-souris est le seul mammifère capable de voler.
 - La faucheuse n'est pas une araignée, mais un opilion, un arachnide distinct qui ne produit ni soie ni venin.
 - La ligne Wallace est une frontière biogéographique en Indonésie qui sépare la faune asiatique de la faune australienne, bien que les îles de Bali et de Lombok, situées de part et d'autre, ne soient séparées que d'environ 35 kilomètres.
+- Le martinet noir peut rester jusqu'à 10 mois en vol sans se poser, mangeant, buvant et dormant dans les airs, selon une étude publiée dans Current Biology en 2016.
 - Le requin du Groenland détient le record de longévité parmi les vertébrés connus, avec une espérance de vie estimée à environ 400 ans et n'atteint la maturité sexuelle qu'aux alentours de 150 ans.
+- Entre les années 1930 et 1960, il existait un test de grossesse consistant à injecter l'urine de la femme dans une grenouille femelle (le xénope) : si elle pondait dans les heures suivantes, la grossesse était confirmée, car l'hormone hCG présente dans l'urine déclenchait la ponte.
 - Les fourmis n'ont pas de poumons : elles respirent grâce à un système de trachées qui amènent directement l'oxygène aux cellules, sans passer par le sang.
 
 ## 🏆 Sports & records
@@ -332,6 +343,7 @@
 - Au football, une "trivela" est une technique de frappe avec l'extérieur du pied qui confère au ballon un effet courbe prononcé.
 - En 1994, la finale Brésil–Italie se termine 0–0 ; le Brésil devient champion du monde après la séance de tirs au but, sans but inscrit dans le match.
 - Fondé en 1857, Sheffield FC est officiellement reconnu comme le plus ancien club de football de l'histoire, existant avant même que les règles modernes du jeu ne soient écrites.
+- Le stade partagé par l'AC Milan et l'Inter Milan est officiellement nommé "Stadio Giuseppe Meazza", mais par convention informelle, les supporters milanais le désignent sous le nom de "San Siro" et les interistes sous celui de "Giuseppe Meazza".
 - Lionel Messi est le seul footballeur de l'histoire à avoir remporté tous les titres majeurs au moins une fois, incluant la Coupe du monde, une compétition continentale avec sa sélection (Copa América), la Ligue des champions, un championnat national, une coupe nationale, une supercoupe nationale, une supercoupe continentale, les Jeux olympiques et le Ballon d'Or.
 - Rogério Ceni, gardien de football brésilien, a marqué 131 buts officiels au cours de sa carrière, principalement sur coups francs et penalties, établissant un record absolu à ce poste.
 
@@ -350,12 +362,17 @@
 - Michael Phelps détient le record absolu de médailles olympiques pour un seul athlète, avec 28 médailles (dont 23 en or), remportées entre les Jeux olympiques de 2004 et 2016.
 - Michael Phelps détient le record du plus grand nombre de médailles remportées lors d'une seule olympiade, avec 8 médailles d'or, aux Jeux olympiques de Pékin en 2008.
 
+### 🌟 Records insolites
+
+- Michel Lotito, surnommé "Monsieur Mangetout", a mangé un avion entier (un Cessna 150) entre 1978 et 1980, en découpant l'appareil en petits morceaux ingérés progressivement sur près de deux ans.
+
 ### 🏉 Rugby
 
 - L'écart de points le plus grand de l'histoire de la Coupe du monde de rugby est de 142 points, établi par l'Australie face à la Namibie (142-0) en 2003.
 - La "cuillère de bois" est un trophée fictif remis officieusement à l'équipe terminant dernière du Tournoi des Six Nations, une tradition héritée de l'université de Cambridge, où une cuillère de bois était remise au dernier classé du concours de mathématiques jusqu'au début du XXᵉ siècle.
 - Le record de points en un seul match de la Coupe du monde de rugby est 145-17, établi par la Nouvelle-Zélande face au Japon en 1995.
 - Le record de points marqués par un joueur en un seul match de la Coupe du monde de rugby est détenu par Simon Culhane, qui inscrit 45 points (1 essai, 20 transformations) lors du match Nouvelle-Zélande-Japon en 1995.
+- Les scores de 1, 2 et 4 points sont impossibles à atteindre au rugby à XV, car aucune combinaison des unités de marque (essai : 5 pts, transformation : 2 pts, pénalité ou drop : 3 pts) ne peut produire ces totaux.
 
 ### 🏎️ Sport automobile
 

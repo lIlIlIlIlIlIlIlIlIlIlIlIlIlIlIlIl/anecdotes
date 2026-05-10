@@ -343,6 +343,7 @@
 - Au football, une "trivela" est une technique de frappe avec l'extérieur du pied qui confère au ballon un effet courbe prononcé.
 - En 1994, la finale Brésil–Italie se termine 0–0 ; le Brésil devient champion du monde après la séance de tirs au but, sans but inscrit dans le match.
 - Fondé en 1857, Sheffield FC est officiellement reconnu comme le plus ancien club de football de l'histoire, existant avant même que les règles modernes du jeu ne soient écrites.
+- João Cancelo est le seul footballeur de l’histoire à avoir remporté un championnat dans quatre des cinq grands championnats européens, à savoir l’Allemagne, l’Angleterre, l’Espagne et l’Italie.
 - Le stade partagé par l'AC Milan et l'Inter Milan est officiellement nommé "Stadio Giuseppe Meazza", mais par convention informelle, les supporters milanais le désignent sous le nom de "San Siro" et les interistes sous celui de "Giuseppe Meazza".
 - Lionel Messi est le seul footballeur de l'histoire à avoir remporté tous les titres majeurs au moins une fois, incluant la Coupe du monde, une compétition continentale avec sa sélection (Copa América), la Ligue des champions, un championnat national, une coupe nationale, une supercoupe nationale, une supercoupe continentale, les Jeux olympiques et le Ballon d'Or.
 - Rogério Ceni, gardien de football brésilien, a marqué 131 buts officiels au cours de sa carrière, principalement sur coups francs et penalties, établissant un record absolu à ce poste.

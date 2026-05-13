@@ -16,7 +16,7 @@
 
 - Dans l'histoire des Oscars, seuls deux acteurs ont été récompensés à titre posthume : Peter Finch en 1977 pour son rôle d'Howard Beale dans Network et Heath Ledger en 2009 pour son rôle du Joker dans The Dark Knight.
 - La France a joué un rôle fondateur dans l'histoire du cinéma avec les frères Lumière, qui ont organisé à la fin du XIXᵉ siècle les premières projections publiques payantes.
-- Le Seigneur des Anneaux : Le Retour du Roi est l'un des trois films les plus oscarisés de l'histoire avec 11 Oscars, sans qu'aucun acteur ou actrice de son casting n'ait reçu de récompense individuelle.
+- Le Seigneur des Anneaux : Le Retour du Roi est l'un des trois films les plus oscarisés de l'histoire avec 11 Oscars (aux côtés de Ben-Hur et Titanic), sans qu'aucun acteur ou actrice de son casting n'ait reçu de récompense individuelle.
 
 ### 🛡️ Identité & emblèmes
 
@@ -24,7 +24,7 @@
 - Le bonnet phrygien est devenu un symbole de la liberté après avoir été porté par les esclaves affranchis dans la Rome antique.
 - Le castor est l'animal national du Canada, choisi pour son rôle central dans l'économie de la traite des fourrures aux XVIIᵉ et XVIIIᵉ siècles, fondatrice de l'histoire coloniale du pays.
 - Le kiwi est à la fois l'oiseau national et le surnom des habitants de la Nouvelle-Zélande, malgré le fait que l'oiseau soit nocturne, incapable de voler et extrêmement discret.
-- Le phénix est l'emblème de la ville de San Francisco, adopté après le séisme de 1906 pour symboliser la renaissance de la ville après la destruction.
+- Le phénix est l'emblème de la ville de San Francisco, adopté dès 1852 pour symboliser la renaissance de la ville après les incendies dévastateurs de 1849 à 1851.
 
 ### 🎵 Musique
 
@@ -69,15 +69,15 @@
 - Le niveau zéro de la mer en France est défini à partir des mesures du marégraphe de Marseille.
 - Le point zéro des routes de France se situe officiellement sur le parvis de Notre-Dame de Paris.
 - Le Pont-Neuf est le plus ancien pont de Paris encore debout, achevé au début du XVIIᵉ siècle.
-- Le TGV français a été le premier système de train à grande vitesse exploité de manière durable et économiquement viable à grande échelle.
+- Le TGV français, inauguré en 1981 entre Paris et Lyon, est le premier réseau ferroviaire à grande vitesse d'Europe.
 
 ### 🌍 Monde
 
 #### 🏳️ Drapeaux
 
-- Aucun drapeau national officiel n'utilise le violet comme couleur.
 - Certains drapeaux nationaux présentent un recto et un verso différents ; le drapeau du Paraguay en est l'exemple le plus connu, avec des emblèmes distincts sur chaque face.
 - Le drapeau de l'Arabie saoudite est le seul drapeau national au monde qui ne peut jamais être mis en berne, car il porte une profession de foi religieuse.
+- Le drapeau de la Dominique est le seul drapeau national au monde à utiliser le violet, représenté par le plumage du perroquet Sisserou figurant en son centre.
 - Le drapeau de la Jamaïque est le seul drapeau national au monde à ne contenir ni bleu, ni blanc, ni rouge.
 - Le drapeau de la République dominicaine est le seul drapeau national au monde sur lequel figure une Bible, représentée dans ses armoiries centrales.
 - Le drapeau des Philippines est le seul drapeau national au monde à changer officiellement en cas de guerre, la bande rouge passant au-dessus de la bande bleue, alors qu'en temps de paix la bande bleue est placée au-dessus de la bande rouge.
@@ -86,6 +86,7 @@
 
 #### 🌐 Frontières & territoires
 
+- Il n'existe que trois États au monde entièrement enclavés dans un seul autre pays : le Lesotho (entouré par l'Afrique du Sud), le Vatican et Saint-Marin (tous deux entourés par l'Italie).
 - L'Australie est plus vaste en superficie que Pluton (Australie ≈ 7,7 millions de km² ; Pluton mis à plat ≈ 4,4 millions de km²).
 - L'Espagne possède des frontières terrestres avec le Maroc (via les enclaves de Ceuta et Melilla) et avec le Royaume-Uni (via Gibraltar).
 - La Bolivie possède une marine militaire malgré la perte de son accès à la mer à la suite de la guerre du Pacifique au XIXᵉ siècle.
@@ -98,7 +99,6 @@
 - Le Danube est le fleuve qui traverse ou borde le plus grand nombre de pays au monde, avec dix États européens sur son parcours.
 - Le Four Corners Monument est le point officiellement reconnu où se rencontrent quatre États américains : l'Arizona, l'Utah, le Colorado et le Nouveau-Mexique.
 - Le Kazakhstan est le plus grand pays du monde sans accès direct à la mer.
-- Le Lesotho est entièrement entouré par un seul pays, l'Afrique du Sud : c'est l'unique État au monde dans ce cas.
 - Les îles Diomède, séparées de moins de 4 km, sont divisées par la ligne internationale de changement de date, créant près de 24 heures de décalage.
 - Les monts Oural sont traditionnellement considérés comme la frontière naturelle entre l'Europe et l'Asie, séparant les deux continents à travers la Russie.
 - Malgré son nom, la mer Caspienne est géographiquement un lac et, de surcroît, le plus vaste du monde.
@@ -123,8 +123,8 @@
 
 #### 🏰 Patrimoine
 
+- La France est l'un des pays qui compte le plus grand nombre d'éléments inscrits au patrimoine culturel immatériel de l'UNESCO.
 - La France est l'un des pays qui compte le plus grand nombre de cathédrales médiévales conservées, de châteaux et de ronds-points au monde.
-- La France est le pays qui compte le plus de sites inscrits au patrimoine culturel immatériel de l'UNESCO.
 - La statue de la Liberté a été conçue et en grande partie fabriquée à Paris avant d'être assemblée et inaugurée à New York.
 - La tour Eiffel, conçue pour dépasser la butte Montmartre, est devenue en 1889 la structure la plus haute de Paris et du monde à l'époque.
 - La tour Eiffel devait être démontée après l'Exposition universelle de 1889, mais elle a été conservée notamment pour son intérêt scientifique et ses usages en télécommunications.
@@ -150,7 +150,6 @@
 
 - En droit français, on parle d'associés dans une société, et de sociétaires dans une association.
 - La France dispose de l'un des plus vastes réseaux diplomatiques au monde, à égalité avec les États-Unis.
-- La France est le pays ayant obtenu le plus de médailles Fields, distinction internationale majeure en mathématiques.
 - La guillotine était encore utilisée en France lors de la sortie du premier film Star Wars en 1977.
 - La loi Lang de 1981 impose un prix unique pour les livres neufs en France, interdisant toute remise supérieure à 5 % sur le prix éditeur afin de protéger les librairies indépendantes face à la grande distribution.
 - La Révolution française a mis en place en 1793 le calendrier révolutionnaire, qui divisait l'année en 12 mois de 30 jours inspirés de la nature — Vendémiaire (sept.–oct.), Brumaire (oct.–nov.), Frimaire (nov.–déc.), Nivôse (déc.–janv.), Pluviôse (janv.–févr.), Ventôse (févr.–mars), Germinal (mars–avr.), Floréal (avr.–mai), Prairial (mai–juin), Messidor (juin–juil.), Thermidor (juil.–août) et Fructidor (août–sept.) — complétés par 5 ou 6 "sans-culottides" ; la semaine de 7 jours y était remplacée par des décades de 10 jours, avant l'abandon du système en 1806.
@@ -164,7 +163,7 @@
 #### ⏳ Chronologie
 
 - Cléopâtre a vécu chronologiquement plus proche de l'époque moderne que de la construction des pyramides de Gizeh, édifiées plus de deux millénaires avant son règne.
-- L'université d'Oxford dispense des enseignements depuis au moins le XIᵉ siècle, bien avant la fondation de l'Empire aztèque au XIVᵉ siècle.
+- L'université d'Oxford dispense des enseignements depuis au moins le XIᵉ siècle, bien avant la fondation de l'Empire aztèque au XVᵉ siècle.
 
 #### 🏺 Cultures
 
@@ -196,6 +195,8 @@
 - Dans l'Arkansas, une ancienne loi souvent citée autorisait un mari à battre sa femme une fois par mois ; elle est aujourd'hui considérée comme apocryphe ou juridiquement caduque.
 - Du XVIIᵉ au XIXᵉ siècle, dans plusieurs villes européennes, des plaques de rues et enseignes en cuivre, laiton ou plomb étaient volées par des habitants modestes pour être revendues à des fondeurs, car le métal valait plus que l'objet, poussant certaines municipalités à les remplacer par de la pierre ou de la peinture.
 - Les bords crantés des pièces de monnaie ont été introduits pour empêcher le rognage, une fraude consistant à gratter les pièces en or ou en argent afin d'en récupérer le métal précieux.
+- Les États-Unis détiennent le plus grand nombre de médailles Fields, distinction internationale majeure en mathématiques, avec 15 lauréats depuis la création du prix en 1936.
+- Les États-Unis détiennent le plus grand nombre de prix Nobel toutes catégories confondues, avec plus de 420 lauréats depuis la création du prix en 1901.
 - Steve Jobs, adopté à la naissance et fils biologique d'un syrien est parfois présenté à tort comme étant né sous le nom "عبد اللطيف الجندلي" (Abd al-Latif al-Jandali), alors qu'il n'a jamais porté ce nom et a toujours conservé celui donné par sa famille adoptive.
 
 ## 🗣️ Langues
@@ -262,7 +263,7 @@
 - L'effet Hawthorne désigne la tendance des individus à modifier leur comportement du seul fait d'être observés.
 - L'ulna, anciennement appelé cubitus, est l'un des deux os de l'avant-bras.
 - La cornée est le seul tissu du corps humain normalement dépourvu de vaisseaux sanguins, elle reçoit l'oxygène et les nutriments par diffusion, c'est-à-dire par passage direct des molécules depuis les larmes et les liquides de l'œil vers ses cellules, ce qui lui permet de rester transparente.
-- La ghréline est une hormone produite principalement par l"estomac qui stimule l"appétit en signalant au cerveau la sensation de faim.
+- La ghréline est une hormone produite principalement par l'estomac qui stimule l'appétit en signalant au cerveau la sensation de faim.
 - Le cerveau est l'organe le plus gras du corps humain, les lipides y constituant environ 55 à 60 % de sa masse sèche.
 - Le cerveau filtre automatiquement les sons produits par nos organes, comme les battements du cœur ou les bruits digestifs, pour prévenir une surcharge sensorielle et maintenir l'attention sur l'environnement extérieur.
 - Le cerveau ne ressent pas directement la douleur, car il ne possède pas de récepteurs nociceptifs, ce qui permet des opérations cérébrales sur des patients éveillés sous conditions médicales strictes.
@@ -328,11 +329,11 @@
 
 ### 🏃 Athlétisme
 
-- Le record du monde du marathon est détenu par Kelvin Kiptum, qui a parcouru les 42,195 km en 2 h 00 min 35 s le 8 octobre 2023, lors du Marathon de Chicago.
+- Le record du monde du marathon est détenu par Sabastian Sawe, qui a parcouru les 42,195 km en 1 h 59 min 30 s le 26 avril 2026 lors du Marathon de Londres, devenant le premier homme à passer sous la barre des deux heures en compétition officielle.
 
 ### 🏀 Basketball
 
-- En 1962, Wilt Chamberlain a inscrit 100 points en un seul match de NBA, un record historique qui n'a jamais été approché depuis.
+- En 1962, Wilt Chamberlain a inscrit 100 points en un seul match de NBA, un record historique qui n'a jamais été égalé depuis.
 
 ### 🥌 Curling
 

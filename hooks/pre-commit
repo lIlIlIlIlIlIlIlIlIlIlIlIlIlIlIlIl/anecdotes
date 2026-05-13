@@ -1,19 +1,12 @@
 #!/usr/bin/env bash
 FILE="ANECDOTES.md"
-MARKER="📊 Total :"
+TITLE="# Anecdotes 📖"
 
 COUNT=$(grep -c "^- " "$FILE")
 
-# Strip existing marker line and trailing blank lines, then append updated count
-awk -v marker="$MARKER" '
-  index($0, marker) == 1 { next }
-  { lines[++n] = $0 }
-  END {
-    while (n > 0 && lines[n] == "") n--
-    for (i = 1; i <= n; i++) print lines[i]
-    print ""
-    print marker " " ENVIRON["COUNT"] " anecdotes"
-  }
-' COUNT="$COUNT" "$FILE" > "$FILE.tmp" && mv "$FILE.tmp" "$FILE"
+awk -v title="$TITLE" -v count="$COUNT" '
+  NR == 1 { print title " (" count ")"; next }
+{ print }
+' "$FILE" > "$FILE.tmp" && mv "$FILE.tmp" "$FILE"
 
 git add "$FILE"

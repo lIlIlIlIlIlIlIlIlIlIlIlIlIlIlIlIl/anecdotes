@@ -152,6 +152,7 @@
 - La France dispose de l'un des plus vastes réseaux diplomatiques au monde, à égalité avec les États-Unis.
 - La France est le pays ayant obtenu le plus de médailles Fields, distinction internationale majeure en mathématiques.
 - La guillotine était encore utilisée en France lors de la sortie du premier film Star Wars en 1977.
+- La loi Lang de 1981 impose un prix unique pour les livres neufs en France, interdisant toute remise supérieure à 5 % sur le prix éditeur afin de protéger les librairies indépendantes face à la grande distribution.
 - La Révolution française a mis en place en 1793 le calendrier révolutionnaire, qui divisait l'année en 12 mois de 30 jours inspirés de la nature — Vendémiaire (sept.–oct.), Brumaire (oct.–nov.), Frimaire (nov.–déc.), Nivôse (déc.–janv.), Pluviôse (janv.–févr.), Ventôse (févr.–mars), Germinal (mars–avr.), Floréal (avr.–mai), Prairial (mai–juin), Messidor (juin–juil.), Thermidor (juil.–août) et Fructidor (août–sept.) — complétés par 5 ou 6 "sans-culottides" ; la semaine de 7 jours y était remplacée par des décades de 10 jours, avant l'abandon du système en 1806.
 - La Révolution française a mis en place le système métrique, qui s'est ensuite imposé comme norme internationale dans la majorité des pays.
 - Le coût de fabrication d'une pièce de 1 centime d'euro dépasse sa valeur faciale.
@@ -312,13 +313,15 @@
 
 ### 🐜 Zoologie
 
+- Entre les années 1930 et 1960, il existait un test de grossesse consistant à injecter l'urine de la femme dans une grenouille femelle (le xénope) : si elle pondait dans les heures suivantes, la grossesse était confirmée, car l'hormone hCG présente dans l'urine déclenchait la ponte.
 - L'orvet est un lézard dépourvu de pattes, souvent confondu avec un serpent en raison de son corps allongé, mais il s'en distingue notamment par ses paupières mobiles.
+- L'umwelt, concept développé par le biologiste Jakob von Uexküll au début du XXᵉ siècle, désigne le monde perceptif subjectif propre à chaque espèce : une tique, par exemple, ne détecte que trois signaux (chaleur corporelle, acide butyrique et texture de la peau) et ignore l'intégralité du reste de son environnement.
 - La chauve-souris est le seul mammifère capable de voler.
 - La faucheuse n'est pas une araignée, mais un opilion, un arachnide distinct qui ne produit ni soie ni venin.
 - La ligne Wallace est une frontière biogéographique en Indonésie qui sépare la faune asiatique de la faune australienne, bien que les îles de Bali et de Lombok, situées de part et d'autre, ne soient séparées que d'environ 35 kilomètres.
+- La reproduction de l'anguille européenne (Anguilla anguilla) n'a jamais été observée dans son milieu naturel, mais la présence de larves dans la mer des Sargasses, près des Bermudes, ainsi que la reconstitution complète de sa trajectoire migratoire depuis l'Europe amènent les scientifiques à conclure qu'elle s'y reproduit avant de mourir.
 - Le martinet noir peut rester jusqu'à 10 mois en vol sans se poser, mangeant, buvant et dormant dans les airs, selon une étude publiée dans Current Biology en 2016.
 - Le requin du Groenland détient le record de longévité parmi les vertébrés connus, avec une espérance de vie estimée à environ 400 ans et n'atteint la maturité sexuelle qu'aux alentours de 150 ans.
-- Entre les années 1930 et 1960, il existait un test de grossesse consistant à injecter l'urine de la femme dans une grenouille femelle (le xénope) : si elle pondait dans les heures suivantes, la grossesse était confirmée, car l'hormone hCG présente dans l'urine déclenchait la ponte.
 - Les fourmis n'ont pas de poumons : elles respirent grâce à un système de trachées qui amènent directement l'oxygène aux cellules, sans passer par le sang.
 
 ## 🏆 Sports & records

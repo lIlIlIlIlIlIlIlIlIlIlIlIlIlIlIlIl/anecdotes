@@ -390,3 +390,5 @@
 - Le match de tennis le plus long de l'histoire a opposé John Isner à Nicolas Mahut à Wimbledon en 2010 : 11 heures et 5 minutes de jeu réparties sur trois jours, conclues par un cinquième set remporté 70–68.
 - Novak Djokovic est le seul tennisman de l'histoire à avoir remporté tous les titres majeurs en simple au moins une fois, incluant les quatre tournois du Grand Chelem, les neuf Masters 1000, les Finales ATP, la Coupe Davis et une médaille d'or olympique.
 - Roger Federer a remporté la finale de Wimbledon 2009 contre Andy Roddick sur le score de 5–7, 7–6, 7–6, 3–6, 16–14, malgré un total de points inférieur : 147 points pour Federer contre 152 pour Roddick.
+
+📊 Total :  anecdotes

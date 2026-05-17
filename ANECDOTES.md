@@ -1,4 +1,4 @@
-# Anecdotes 📖 (241)
+# Anecdotes 📖 (254)
 
 ## 🎨 Arts, culture & cinéma
 
@@ -17,6 +17,7 @@
 - Dans l'histoire des Oscars, seuls deux acteurs ont été récompensés à titre posthume : Peter Finch en 1977 pour son rôle d'Howard Beale dans Network et Heath Ledger en 2009 pour son rôle du Joker dans The Dark Knight.
 - La France a joué un rôle fondateur dans l'histoire du cinéma avec les frères Lumière, qui ont organisé à la fin du XIXᵉ siècle les premières projections publiques payantes.
 - Le Seigneur des Anneaux : Le Retour du Roi est l'un des trois films les plus oscarisés de l'histoire avec 11 Oscars (aux côtés de Ben-Hur et Titanic), sans qu'aucun acteur ou actrice de son casting n'ait reçu de récompense individuelle.
+- The Artist, film muet français réalisé par Michel Hazanavicius, est le seul film de production française à avoir remporté l'Oscar du meilleur film, lors de la 84ᵉ cérémonie des Oscars en 2012.
 
 ### 🛡️ Identité & emblèmes
 
@@ -46,6 +47,10 @@
 - La France est le pays qui compte le plus de restaurants étoilés Michelin au monde, avec environ 630 à 650 établissements selon les éditions récentes du guide.
 - Le champagne n'est pas naturellement pétillant : ses bulles apparaissent lors d'une seconde fermentation en bouteille, appelée "prise de mousse", propre à la méthode champenoise.
 - Les restaurants, au sens moderne du terme (établissements proposant des plats à la carte), sont apparus à Paris au XVIIIᵉ siècle.
+
+### 🌍 Monde
+
+- Les gâteaux de la fortune, souvent associés à la cuisine chinoise, seraient une invention américaine du début du XXᵉ siècle, attribuée le plus souvent à Makoto Hagiwara, un immigrant japonais qui les proposait dans le jardin japonais de San Francisco.
 
 ## 🗺️ Géographie
 
@@ -141,6 +146,7 @@
 - La loi du 9 décembre 1905 sur la séparation des Églises et de l'État ne s'applique pas en Alsace-Moselle, car la région était allemande à cette date et a conservé son droit local lors de son retour à la France en 1918, où le Concordat de 1801 demeure en vigueur.
 - Le président français est le seul chef d'État encore co-prince d'un autre pays (Andorre).
 - Les cœurs des rois de France étaient souvent enterrés séparément de leur corps, selon un usage funéraire aristocratique courant.
+- Lors de la prise de la Bastille le 14 juillet 1789, seuls sept prisonniers y étaient détenus : quatre faussaires, deux aliénés et un noble incarcéré à la demande de sa famille.
 - Louis X serait mort en 1316 peu après avoir bu du vin très froid à l'issue d'un match de jeu de paume, selon les chroniques médiévales.
 - Louis XIII avait une passion marquée pour les serrures et les mécanismes, documentée par des témoignages contemporains.
 - Napoléon Bonaparte est mort le 5 mai 1821, moins de trois ans avant que William Buckland ne décrive officiellement le premier fossile de dinosaure en 1824 : Napoléon n'a donc jamais su que les dinosaures avaient existé.
@@ -154,6 +160,7 @@
 - La loi Lang de 1981 impose un prix unique pour les livres neufs en France, interdisant toute remise supérieure à 5 % sur le prix éditeur afin de protéger les librairies indépendantes face à la grande distribution.
 - La Révolution française a mis en place en 1793 le calendrier révolutionnaire, qui divisait l'année en 12 mois de 30 jours inspirés de la nature — Vendémiaire (sept.–oct.), Brumaire (oct.–nov.), Frimaire (nov.–déc.), Nivôse (déc.–janv.), Pluviôse (janv.–févr.), Ventôse (févr.–mars), Germinal (mars–avr.), Floréal (avr.–mai), Prairial (mai–juin), Messidor (juin–juil.), Thermidor (juil.–août) et Fructidor (août–sept.) — complétés par 5 ou 6 "sans-culottides" ; la semaine de 7 jours y était remplacée par des décades de 10 jours, avant l'abandon du système en 1806.
 - La Révolution française a mis en place le système métrique, qui s'est ensuite imposé comme norme internationale dans la majorité des pays.
+- Le carnaval de Limoux, dans l'Aude, est le plus long du monde : il dure de trois à quatre mois, de janvier à avril, selon une tradition dont les premières traces écrites remontent au début du XVIᵉ siècle.
 - Le coût de fabrication d'une pièce de 1 centime d'euro dépasse sa valeur faciale.
 - Le dernier duel reconnu comme légal en France a eu lieu à Paris en 1967.
 - Une ancienne tradition juridique ou certaines décisions locales ont parfois interdit d'appeler un cochon "Napoléon", une interdiction qui n'est aujourd'hui plus en vigueur.
@@ -163,11 +170,15 @@
 #### ⏳ Chronologie
 
 - Cléopâtre a vécu chronologiquement plus proche de l'époque moderne que de la construction des pyramides de Gizeh, édifiées plus de deux millénaires avant son règne.
+- John Adams et Thomas Jefferson, deuxième et troisième présidents des États-Unis, sont tous deux morts le 4 juillet 1826, exactement cinquante ans après la proclamation de la Déclaration d'Indépendance.
 - L'université d'Oxford dispense des enseignements depuis au moins le XIᵉ siècle, bien avant la fondation de l'Empire aztèque au XVᵉ siècle.
+- Les États-Unis, indépendants depuis 1776, sont plus anciens en tant qu'État unifié que l'Allemagne, dont l'unification sous le nom d'Empire allemand ne fut proclamée qu'en 1871.
 
 #### 🏺 Cultures
 
 - Contrairement à la légende, il n'existe aucune preuve que Néron ait provoqué l'incendie de Rome en 64.
+- Dans la tradition ésotérique juive, notamment dans l'Alphabet de Ben Sira (VIIIᵉ–Xᵉ siècle), Lilith est décrite comme la première femme d'Adam, créée comme lui depuis la terre, avant d'en être exclue pour avoir refusé de lui être soumise.
+- Le trioxyde d'arsenic, surnommé "poudre de succession" pour son usage fréquent comme poison afin de hâter un héritage, resta indétectable jusqu'en 1836, date à laquelle le test de Marsh permit pour la première fois de l'identifier dans des restes humains.
 - Les Avars, peuple nomade établi dans le bassin des Carpates au VIᵉ siècle, sont considérés comme les introducteurs de l'étrier en Europe, une innovation qui transforma durablement les tactiques de cavalerie médiévale.
 - Les Vikings ne portaient pas de casques à cornes ; cette représentation est une invention du XIXᵉ siècle, popularisée par l'art et l'opéra.
 - Traditionnellement, on monte à cheval par le côté gauche, une pratique héritée des chevaliers médiévaux qui portaient leur épée à la hanche gauche : monter par la droite aurait risqué d'accrocher l'arme dans la selle.
@@ -194,9 +205,12 @@
 
 - Dans l'Arkansas, une ancienne loi souvent citée autorisait un mari à battre sa femme une fois par mois ; elle est aujourd'hui considérée comme apocryphe ou juridiquement caduque.
 - Du XVIIᵉ au XIXᵉ siècle, dans plusieurs villes européennes, des plaques de rues et enseignes en cuivre, laiton ou plomb étaient volées par des habitants modestes pour être revendues à des fondeurs, car le métal valait plus que l'objet, poussant certaines municipalités à les remplacer par de la pierre ou de la peinture.
+- Gandhi fut nominé cinq fois pour le prix Nobel de la Paix sans jamais le recevoir : en 1948, l'année de son assassinat, le comité Nobel choisit de ne pas attribuer le prix, invoquant l'absence de "candidat vivant approprié".
+- John D. Rockefeller est considéré comme la première personne de l'histoire à avoir constitué une fortune personnelle dépassant le milliard de dollars, grâce notamment au quasi-monopole exercé par sa compagnie Standard Oil sur le marché pétrolier américain.
 - Les bords crantés des pièces de monnaie ont été introduits pour empêcher le rognage, une fraude consistant à gratter les pièces en or ou en argent afin d'en récupérer le métal précieux.
 - Les États-Unis détiennent le plus grand nombre de médailles Fields, distinction internationale majeure en mathématiques, avec 15 lauréats depuis la création du prix en 1936.
 - Les États-Unis détiennent le plus grand nombre de prix Nobel toutes catégories confondues, avec plus de 420 lauréats depuis la création du prix en 1901.
+- Marie Curie est à la fois la première femme à avoir reçu un prix Nobel et la première personne à en avoir reçu deux : le prix de physique en 1903 (partagé avec Pierre Curie et Henri Becquerel) et le prix de chimie en 1911.
 - Steve Jobs, adopté à la naissance et fils biologique d'un syrien est parfois présenté à tort comme étant né sous le nom "عبد اللطيف الجندلي" (Abd al-Latif al-Jandali), alors qu'il n'a jamais porté ce nom et a toujours conservé celui donné par sa famille adoptive.
 
 ## 🗣️ Langues
@@ -304,11 +318,12 @@
 - La fosse des Mariannes est la zone la plus profonde connue des océans : son point le plus bas, le Challenger Deep, est estimé à environ 10 920 à 10 935 mètres sous le niveau de la mer, dans l'ouest de l'océan Pacifique.
 - La Pangée est un ancien supercontinent dont la formation est estimée à environ 335 millions d'années et dont la fragmentation a commencé il y a environ 175 à 200 millions d'années.
 - La projection de Mercator déforme fortement la taille des pays : elle agrandit les régions proches des pôles, donnant par exemple l'illusion que le Groenland est comparable à l'Afrique, alors qu'en réalité l'Afrique est environ quatorze fois plus grande.
+- La Volga, avec environ 3 690 kilomètres, est le plus long fleuve d'Europe.
 - Le désert de Lut (Dasht-e Lut), en Iran, est considéré comme le désert le plus chaud du monde, avec des températures de surface mesurées par satellite pouvant dépasser 70 °C.
 - Le Kilimandjaro est à la fois le plus haut volcan et la plus haute montagne d'Afrique, culminant à 5 895 mètres.
 - Le lac Baïkal est le lac le plus profond du monde (environ 1 642 mètres) et contient à lui seul environ 20 % de toute l'eau douce liquide non gelée de la planète.
 - Le lac Hillier, en Australie, est naturellement rose en raison de micro-organismes présents dans l'eau.
-- Le Nil est traditionnellement considéré comme le fleuve le plus long du monde, bien que certaines mesures attribuent ce titre à l'Amazone, qui reste en revanche le fleuve le plus puissant par son débit.
+- Le Nil, avec environ 6 650 kilomètres, est généralement reconnu comme le plus long fleuve du monde, bien que certaines mesures récentes attribuent ce titre à l'Amazone, qui reste en revanche le fleuve le plus puissant par son débit.
 - Le point Némo, officiellement appelé pôle océanique d'inaccessibilité, est l'endroit des océans le plus éloigné de toute terre émergée : situé dans le Pacifique Sud à environ 2 688 kilomètres des côtes les plus proches, il est, lorsque l'ISS passe à son zénith, plus proche des astronautes (environ 400 km) que de toute terre émergée.
 - Rodinia est un ancien supercontinent, dont la formation est estimée à environ un milliard d'années et la fragmentation à environ 750 millions d'années, bien avant la Pangée.
 
@@ -321,6 +336,7 @@
 - La faucheuse n'est pas une araignée, mais un opilion, un arachnide distinct qui ne produit ni soie ni venin.
 - La ligne Wallace est une frontière biogéographique en Indonésie qui sépare la faune asiatique de la faune australienne, bien que les îles de Bali et de Lombok, situées de part et d'autre, ne soient séparées que d'environ 35 kilomètres.
 - La reproduction de l'anguille européenne (Anguilla anguilla) n'a jamais été observée dans son milieu naturel, mais la présence de larves dans la mer des Sargasses, près des Bermudes, ainsi que la reconstitution complète de sa trajectoire migratoire depuis l'Europe amènent les scientifiques à conclure qu'elle s'y reproduit avant de mourir.
+- Le calamar colossal possède les plus grands yeux de tout le règne animal, pouvant atteindre jusqu'à 27 centimètres de diamètre.
 - Le martinet noir peut rester jusqu'à 10 mois en vol sans se poser, mangeant, buvant et dormant dans les airs, selon une étude publiée dans Current Biology en 2016.
 - Le requin du Groenland détient le record de longévité parmi les vertébrés connus, avec une espérance de vie estimée à environ 400 ans et n'atteint la maturité sexuelle qu'aux alentours de 150 ans.
 - Les fourmis n'ont pas de poumons : elles respirent grâce à un système de trachées qui amènent directement l'oxygène aux cellules, sans passer par le sang.

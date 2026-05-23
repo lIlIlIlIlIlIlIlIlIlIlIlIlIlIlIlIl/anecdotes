@@ -374,14 +374,14 @@
 
 - La distance du marathon (42,195 km) provient du tracé précis de la course des Jeux olympiques de Londres en 1908, reliant le château de Windsor au stade olympique de White City, avant d'être officiellement standardisée par la suite.
 
-#### 🚩 Nations
-
-- Lors des Jeux olympiques de Tokyo 2020, Saint-Marin a remporté 3 médailles (1 or, 1 argent, 1 bronze), ses premières de son histoire, affichant le meilleur ratio de médailles par habitant de l'histoire des Jeux olympiques avec environ 88 médailles pour un million d'habitants.
-
 #### 🏊 Natation
 
 - Michael Phelps détient le record absolu de médailles olympiques pour un seul athlète, avec 28 médailles (dont 23 en or), remportées entre les Jeux olympiques de 2004 et 2016.
 - Michael Phelps détient le record du plus grand nombre de médailles remportées lors d'une seule olympiade, avec 8 médailles d'or, aux Jeux olympiques de Pékin en 2008.
+
+#### 🚩 Nations
+
+- Lors des Jeux olympiques de Tokyo 2020, Saint-Marin a remporté 3 médailles (1 or, 1 argent, 1 bronze), ses premières de son histoire, affichant le meilleur ratio de médailles par habitant de l'histoire des Jeux olympiques avec environ 88 médailles pour un million d'habitants.
 
 ### 🌟 Records insolites
 

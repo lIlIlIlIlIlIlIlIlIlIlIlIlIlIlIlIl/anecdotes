@@ -1,4 +1,4 @@
-# Anecdotes 📖 (254)
+# Anecdotes 📖 (270)
 
 ## 🎨 Arts, culture & cinéma
 
@@ -93,11 +93,11 @@
 
 - Il n'existe que trois États au monde entièrement enclavés dans un seul autre pays : le Lesotho (entouré par l'Afrique du Sud), le Vatican et Saint-Marin (tous deux entourés par l'Italie).
 - L'Australie est plus vaste en superficie que Pluton (Australie ≈ 7,7 millions de km² ; Pluton mis à plat ≈ 4,4 millions de km²).
-- L'Espagne possède des frontières terrestres avec le Maroc (via les enclaves de Ceuta et Melilla) et avec le Royaume-Uni (via Gibraltar).
+- L'Espagne possède des frontières terrestres avec le Maroc (via les enclaves de Ceuta et Melilla) et avec un territoire britannique d'outre-mer (via Gibraltar).
 - La Bolivie possède une marine militaire malgré la perte de son accès à la mer à la suite de la guerre du Pacifique au XIXᵉ siècle.
 - La Chine et la Russie ont chacune des frontières terrestres avec 14 pays, ce qui en fait les deux États comptant le plus grand nombre de voisins au monde.
 - La côte est du Brésil est plus proche de l'Afrique occidentale (environ 2 900 km) que de la côte ouest du Brésil (environ 4 300 km), en raison de la forme convexe du continent sud-américain.
-- La frontière terrestre internationale la plus courte au monde se situe entre le Botswana et la Zambie : elle mesure environ 150 mètres seulement.
+- La frontière terrestre internationale la plus courte au monde borde le Peñón de Vélez de la Gomera, un rocher espagnol rattaché à la côte marocaine par une langue de sable d'environ 74 mètres, délimitant ainsi une frontière entre l'Espagne et le Maroc.
 - La plus longue frontière internationale au monde sépare le Canada et les États-Unis, sur environ 8 900 kilomètres en incluant les portions terrestres et aquatiques.
 - La plus longue frontière terrestre continue au monde sépare la Russie et le Kazakhstan sur environ 7 600 kilomètres.
 - La Sibérie est plus vaste que le Canada en superficie.
@@ -131,7 +131,7 @@
 - La France est l'un des pays qui compte le plus grand nombre d'éléments inscrits au patrimoine culturel immatériel de l'UNESCO.
 - La France est l'un des pays qui compte le plus grand nombre de cathédrales médiévales conservées, de châteaux et de ronds-points au monde.
 - La statue de la Liberté a été conçue et en grande partie fabriquée à Paris avant d'être assemblée et inaugurée à New York.
-- La tour Eiffel, conçue pour dépasser la butte Montmartre, est devenue en 1889 la structure la plus haute de Paris et du monde à l'époque.
+- La tour Eiffel, construite pour l'Exposition universelle de 1889, est devenue à sa création la structure la plus haute de Paris et du monde, avec ses 300 mètres.
 - La tour Eiffel devait être démontée après l'Exposition universelle de 1889, mais elle a été conservée notamment pour son intérêt scientifique et ses usages en télécommunications.
 - Le cimetière du Père-Lachaise est l'un des cimetières les plus visités au monde.
 - Les travaux d'Haussmann ont entraîné la destruction d'une grande partie du tissu urbain médiéval de Paris, estimée par les historiens à environ 60 %.
@@ -158,7 +158,7 @@
 - La France dispose de l'un des plus vastes réseaux diplomatiques au monde, à égalité avec les États-Unis.
 - La guillotine était encore utilisée en France lors de la sortie du premier film Star Wars en 1977.
 - La loi Lang de 1981 impose un prix unique pour les livres neufs en France, interdisant toute remise supérieure à 5 % sur le prix éditeur afin de protéger les librairies indépendantes face à la grande distribution.
-- La Révolution française a mis en place en 1793 le calendrier révolutionnaire, qui divisait l'année en 12 mois de 30 jours inspirés de la nature — Vendémiaire (sept.–oct.), Brumaire (oct.–nov.), Frimaire (nov.–déc.), Nivôse (déc.–janv.), Pluviôse (janv.–févr.), Ventôse (févr.–mars), Germinal (mars–avr.), Floréal (avr.–mai), Prairial (mai–juin), Messidor (juin–juil.), Thermidor (juil.–août) et Fructidor (août–sept.) — complétés par 5 ou 6 "sans-culottides" ; la semaine de 7 jours y était remplacée par des décades de 10 jours, avant l'abandon du système en 1806.
+- La Révolution française a mis en place en 1793 le calendrier révolutionnaire, qui divisait l'année en 12 mois de 30 jours inspirés de la nature (Vendémiaire, Brumaire, Frimaire, Nivôse, Pluviôse, Ventôse, Germinal, Floréal, Prairial, Messidor, Thermidor et Fructidor), complétés par 5 ou 6 jours supplémentaires appelés "sans-culottides", la semaine de 7 jours y étant remplacée par des décades de 10 jours, avant l'abandon du système en 1806.
 - La Révolution française a mis en place le système métrique, qui s'est ensuite imposé comme norme internationale dans la majorité des pays.
 - Le carnaval de Limoux, dans l'Aude, est le plus long du monde : il dure de trois à quatre mois, de janvier à avril, selon une tradition dont les premières traces écrites remontent au début du XVIᵉ siècle.
 - Le coût de fabrication d'une pièce de 1 centime d'euro dépasse sa valeur faciale.
@@ -173,11 +173,13 @@
 - John Adams et Thomas Jefferson, deuxième et troisième présidents des États-Unis, sont tous deux morts le 4 juillet 1826, exactement cinquante ans après la proclamation de la Déclaration d'Indépendance.
 - L'université d'Oxford dispense des enseignements depuis au moins le XIᵉ siècle, bien avant la fondation de l'Empire aztèque au XVᵉ siècle.
 - Les États-Unis, indépendants depuis 1776, sont plus anciens en tant qu'État unifié que l'Allemagne, dont l'unification sous le nom d'Empire allemand ne fut proclamée qu'en 1871.
+- Les samouraïs japonais et les cowboys américains ont coexisté pendant une douzaine d'années : les cowboys émergent à partir de 1865 avec la fin de la guerre de Sécession, tandis que le dernier affrontement de samouraïs, la bataille de Shiroyama, date de 1877.
 
 #### 🏺 Cultures
 
 - Contrairement à la légende, il n'existe aucune preuve que Néron ait provoqué l'incendie de Rome en 64.
 - Dans la tradition ésotérique juive, notamment dans l'Alphabet de Ben Sira (VIIIᵉ–Xᵉ siècle), Lilith est décrite comme la première femme d'Adam, créée comme lui depuis la terre, avant d'en être exclue pour avoir refusé de lui être soumise.
+- La lame de la dague en fer retrouvée dans le tombeau de Toutânkhamon est fabriquée à partir d'un météorite ferrique, confirmé en 2016 par analyse XRF : elle contient environ 10,8 % de nickel et 0,6 % de cobalt, une composition caractéristique des météorites ferriques et inatteignable par la métallurgie terrestre de l'Égypte ancienne.
 - Le trioxyde d'arsenic, surnommé "poudre de succession" pour son usage fréquent comme poison afin de hâter un héritage, resta indétectable jusqu'en 1836, date à laquelle le test de Marsh permit pour la première fois de l'identifier dans des restes humains.
 - Les Avars, peuple nomade établi dans le bassin des Carpates au VIᵉ siècle, sont considérés comme les introducteurs de l'étrier en Europe, une innovation qui transforma durablement les tactiques de cavalerie médiévale.
 - Les Vikings ne portaient pas de casques à cornes ; cette représentation est une invention du XIXᵉ siècle, popularisée par l'art et l'opéra.
@@ -185,6 +187,7 @@
 
 #### ⚔️ Guerres & conflits
 
+- J.R.R. Tolkien et Adolf Hitler ont tous deux survécu à la bataille de la Somme en 1916 : le premier combattait dans les rangs britanniques, le second dans les rangs allemands jusqu'au début octobre, date à laquelle Hitler fut évacué après avoir été blessé à la cuisse par des éclats d'obus.
 - La guerre la plus courte de l'Histoire documentée a opposé le Royaume-Uni à Zanzibar en 1896 et a duré entre 38 et 45 minutes.
 - La guerre la plus longue de l'Histoire documentée a opposé les Pays-Bas aux îles Scilly : déclarée en 1651, elle ne fut officiellement terminée qu'en 1986, après 335 ans, sans qu'aucun combat n'ait jamais eu lieu.
 - Le "Demon Core" était une sphère de plutonium de 6,2 kg issue du projet Manhattan qui provoqua deux accidents de criticité nucléaire à Los Alamos en 1945 et 1946, causant chaque fois la mort de l'opérateur exposé.
@@ -193,6 +196,7 @@
 - Les deux Corées n'ont jamais signé de traité de paix depuis 1953 : la guerre de Corée est toujours officiellement suspendue par un armistice, pas terminée juridiquement.
 - Lors de la campagne de Russie en 1812, Napoléon Bonaparte fit imprimer de faux billets russes pour financer ses troupes et tenter d'affaiblir l'économie du pays, sans réel succès.
 - Pendant la Seconde Guerre mondiale, le bâtiment du Grand Orient de France à Paris a été réquisitionné par l'occupant nazi et utilisé par des services allemands, notamment le renseignement SS, la franc-maçonnerie étant considérée comme un ennemi idéologique du régime.
+- Simo Häyhä, tireur d'élite finlandais surnommé "la Mort Blanche" par les soldats soviétiques, est crédité de 505 victimes confirmées au fusil selon les archives militaires finlandaises, durant la seule guerre d'Hiver (novembre 1939 - mars 1940), le tout sans avoir utilisé de lunette de visée, ce qui en fait le sniper le plus meurtrier de l'histoire documentée.
 
 #### 👑 Pouvoirs & institutions
 
@@ -211,7 +215,8 @@
 - Les États-Unis détiennent le plus grand nombre de médailles Fields, distinction internationale majeure en mathématiques, avec 15 lauréats depuis la création du prix en 1936.
 - Les États-Unis détiennent le plus grand nombre de prix Nobel toutes catégories confondues, avec plus de 420 lauréats depuis la création du prix en 1901.
 - Marie Curie est à la fois la première femme à avoir reçu un prix Nobel et la première personne à en avoir reçu deux : le prix de physique en 1903 (partagé avec Pierre Curie et Henri Becquerel) et le prix de chimie en 1911.
-- Steve Jobs, adopté à la naissance et fils biologique d'un syrien est parfois présenté à tort comme étant né sous le nom "عبد اللطيف الجندلي" (Abd al-Latif al-Jandali), alors qu'il n'a jamais porté ce nom et a toujours conservé celui donné par sa famille adoptive.
+- Selon l'étude d'Erica Chenoweth et Maria Stephan publiée en 2011, portant sur des centaines de campagnes entre 1900 et 2006, tout mouvement non violent ayant mobilisé au moins 3,5 % de la population a systématiquement obtenu un changement politique majeur.
+- Steve Jobs, adopté à la naissance et fils biologique d'un Syrien, est parfois présenté à tort comme étant né sous le nom "عبد اللطيف الجندلي" (Abd al-Latif al-Jandali), alors qu'il n'a jamais porté ce nom et a toujours conservé celui donné par sa famille adoptive.
 
 ## 🗣️ Langues
 
@@ -234,6 +239,7 @@
 - L'anhédonie est l'incapacité à ressentir du plaisir, souvent associée à certains troubles comme la dépression.
 - La glabelle est la zone lisse du front située entre les deux sourcils, au-dessus de la racine du nez.
 - La lunule est le croissant blanc visible à la base des ongles.
+- La munificence désigne une générosité somptueuse et sans mesure, généralement associée aux grands mécènes et aux souverains.
 - La sérendipité est le fait de faire par hasard une découverte inattendue qui s'avère ensuite fructueuse.
 - Le pétrichor est l'odeur caractéristique dégagée par la terre sèche après la pluie.
 - Le philtrum est le sillon vertical situé entre la base du nez et la lèvre supérieure.
@@ -252,8 +258,12 @@
 
 - En 1996, Claudie Haigneré est devenue la première Française à voyager dans l'espace.
 - L'échelle de Kardashev, proposée par l'astronome soviétique Nikolaï Kardashev en 1964, classe les civilisations en trois niveaux selon leur consommation d'énergie (planétaire, stellaire, galactique), la civilisation humaine étant estimée à environ 0,73.
+- La face cachée de la Lune n'est pas constamment dans l'obscurité mais reste invisible depuis la Terre en raison du verrouillage gravitationnel : la Lune effectue une rotation sur elle-même dans le même temps qu'elle orbite autour de la Terre (environ 27,3 jours), un équilibre progressivement imposé par les forces de marée terrestres sur des milliards d'années.
 - Le "Lahaina Noon", dont le nom signifie "soleil cruel" en hawaïen, est un phénomène qui se produit deux fois par an à Hawaï, lorsque le soleil est exactement au zénith et que les objets verticaux ne projettent aucune ombre.
+- Le cosmonaute soviétique Sergueï Krikalev, parti le 18 mai 1991 pour la station Mir, est revenu sur Terre le 25 mars 1992 après 311 jours dans l'espace, en découvrant que l'URSS avait été dissoute entre-temps et que sa ville natale, Leningrad, avait été renommée Saint-Pétersbourg.
+- Le premier être vivant à avoir orbité autour de la Terre fut Laïka, une chienne errante recueillie dans les rues de Moscou : lancée à bord du satellite soviétique Spoutnik 2 le 3 novembre 1957, elle mourut de surchauffe au bout de quelques heures, la mission n'ayant jamais prévu de dispositif de retour.
 - Les aiguilles d'une montre tournent dans le sens horaire en référence au mouvement observé sur les cadrans solaires de l'hémisphère nord.
+- Lors d'une expérience de "vision à distance" conduite en 1973 au Stanford Research Institute, le prétendu psychique Ingo Swann décrivit un anneau autour de Jupiter, alors inconnu de la science, une description qui précéda de six ans la confirmation des anneaux de Jupiter par la sonde Voyager 1 en 1979.
 - Un jour sur Vénus est plus long qu'une année sur Vénus, en raison de la rotation extrêmement lente de la planète sur elle-même.
 
 ### 🌱 Botanique & biologie
@@ -264,10 +274,10 @@
 - La musaraigne-éléphant est génétiquement plus proche de l'éléphant que de la souris.
 - La vanille est le fruit d'une orchidée tropicale du genre "Vanilla", ce qui en fait l'une des rares épices issues de cette famille botanique.
 - Le coco correspond à l'endocarpe dur du fruit du cocotier, tandis que la véritable noix de coco est la graine située à l'intérieur, ce qui explique la confusion entre le fruit entier et la noix consommée.
+- Le dernier ancêtre commun hypothétique de toute vie sur Terre, connu sous l'acronyme LUCA (Last Universal Common Ancestor), aurait vécu il y a environ 3,8 à 4,2 milliards d'années et serait à l'origine des trois domaines du vivant : les Archées, les Bactéries et les Eucaryotes.
 - Le mégalodon a coexisté avec certains des plus anciens hominidés connus, apparus plusieurs millions d'années avant son extinction, sans qu'il n'y ait jamais eu de rencontre possible entre eux.
 - Le Tyrannosaurus rex est plus proche de notre époque que de celle du Stégosaure, car nous sommes séparés de lui par environ 66 millions d'années, tandis qu'environ 85 à 90 millions d'années le séparent du Stégosaure.
 - Les fraises ne sont pas des baies d'un point de vue botanique, contrairement aux bananes, qui remplissent bien les critères scientifiques d'une baie.
-- Les monotrèmes constituent le seul groupe de mammifères ovipares actuels, comprenant l'ornithorynque et quatre espèces d'échidnés.
 - Les requins existaient avant les arbres, les premiers requins étant apparus il y a plus de 400 millions d'années.
 
 ### 🧬 Corps humain & neurosciences
@@ -278,9 +288,11 @@
 - L'ulna, anciennement appelé cubitus, est l'un des deux os de l'avant-bras.
 - La cornée est le seul tissu du corps humain normalement dépourvu de vaisseaux sanguins, elle reçoit l'oxygène et les nutriments par diffusion, c'est-à-dire par passage direct des molécules depuis les larmes et les liquides de l'œil vers ses cellules, ce qui lui permet de rester transparente.
 - La ghréline est une hormone produite principalement par l'estomac qui stimule l'appétit en signalant au cerveau la sensation de faim.
+- La loi de Janet, formulée par le philosophe Paul Janet au XIXᵉ siècle, établit que la perception subjective d'une période est proportionnelle à la part qu'elle représente dans la vie déjà vécue, ce qui explique pourquoi le temps semble s'accélérer avec l'âge : une année représente 20 % de la vie d'un enfant de 5 ans, mais seulement 2 % de celle d'un adulte de 50 ans.
 - Le cerveau est l'organe le plus gras du corps humain, les lipides y constituant environ 55 à 60 % de sa masse sèche.
 - Le cerveau filtre automatiquement les sons produits par nos organes, comme les battements du cœur ou les bruits digestifs, pour prévenir une surcharge sensorielle et maintenir l'attention sur l'environnement extérieur.
 - Le cerveau ne ressent pas directement la douleur, car il ne possède pas de récepteurs nociceptifs, ce qui permet des opérations cérébrales sur des patients éveillés sous conditions médicales strictes.
+- Le raphé médian est la ligne visible qui parcourt la face inférieure du pénis et du scrotum : il résulte de la fusion des bourrelets labio-scrotaux et des plis uro-génitaux lors du développement fœtal masculin, structures qui, chez la femme, restent non fusionnées et forment respectivement les grandes et les petites lèvres.
 - Les souvenirs ne sont pas "relus" mais réécrits à chaque rappel, ce qui les modifie progressivement.
 - Si deux jumeaux monozygotes ont des enfants avec deux jumelles monozygotes, alors leurs enfants sont génétiquement des frères et sœurs (environ 50 % d'ADN en commun), tout en restant juridiquement des cousins.
 
@@ -330,11 +342,14 @@
 ### 🐜 Zoologie
 
 - Entre les années 1930 et 1960, il existait un test de grossesse consistant à injecter l'urine de la femme dans une grenouille femelle (le xénope) : si elle pondait dans les heures suivantes, la grossesse était confirmée, car l'hormone hCG présente dans l'urine déclenchait la ponte.
+- L'épitoquie est un mode de reproduction de certains vers polychètes dans lequel une portion du ver se transforme en segment reproducteur autonome appelé "épitoque" : celui-ci se détache, remonte à la surface de l'eau pour y libérer ses gamètes, puis se désintègre.
+- L'ornithorynque est l'un des cinq seuls mammifères à la fois ovipares et allaitants, aux côtés des quatre espèces d'échidnés, tous appartenant à l'ordre des monotrèmes.
 - L'orvet est un lézard dépourvu de pattes, souvent confondu avec un serpent en raison de son corps allongé, mais il s'en distingue notamment par ses paupières mobiles.
 - L'umwelt, concept développé par le biologiste Jakob von Uexküll au début du XXᵉ siècle, désigne le monde perceptif subjectif propre à chaque espèce : une tique, par exemple, ne détecte que trois signaux (chaleur corporelle, acide butyrique et texture de la peau) et ignore l'intégralité du reste de son environnement.
 - La chauve-souris est le seul mammifère capable de voler.
 - La faucheuse n'est pas une araignée, mais un opilion, un arachnide distinct qui ne produit ni soie ni venin.
 - La ligne Wallace est une frontière biogéographique en Indonésie qui sépare la faune asiatique de la faune australienne, bien que les îles de Bali et de Lombok, situées de part et d'autre, ne soient séparées que d'environ 35 kilomètres.
+- La musaraigne aquatique (Sorex palustris) et la taupe à nez étoilé (Condylura cristata) sont les seuls mammifères connus à ce jour capables de détecter des odeurs sous l'eau, en expirant de petites bulles d'air puis en les réinhalant pour capter les molécules odorantes, selon une étude publiée dans Nature en 2006 par Kenneth Catania.
 - La reproduction de l'anguille européenne (Anguilla anguilla) n'a jamais été observée dans son milieu naturel, mais la présence de larves dans la mer des Sargasses, près des Bermudes, ainsi que la reconstitution complète de sa trajectoire migratoire depuis l'Europe amènent les scientifiques à conclure qu'elle s'y reproduit avant de mourir.
 - Le calamar colossal possède les plus grands yeux de tout le règne animal, pouvant atteindre jusqu'à 27 centimètres de diamètre.
 - Le martinet noir peut rester jusqu'à 10 mois en vol sans se poser, mangeant, buvant et dormant dans les airs, selon une étude publiée dans Current Biology en 2016.
@@ -364,6 +379,7 @@
 - En 1994, la finale Brésil–Italie se termine 0–0 ; le Brésil devient champion du monde après la séance de tirs au but, sans but inscrit dans le match.
 - Fondé en 1857, Sheffield FC est officiellement reconnu comme le plus ancien club de football de l'histoire, existant avant même que les règles modernes du jeu ne soient écrites.
 - João Cancelo est le seul footballeur de l’histoire à avoir remporté un championnat dans quatre des cinq grands championnats européens, à savoir l’Allemagne, l’Angleterre, l’Espagne et l’Italie.
+- La CONIFA (Confédération des associations de football indépendantes), fondée en 2013, organise une Coupe du monde de football destinée aux nations, régions et peuples non affiliés à la FIFA.
 - Le stade partagé par l'AC Milan et l'Inter Milan est officiellement nommé "Stadio Giuseppe Meazza", mais par convention informelle, les supporters milanais le désignent sous le nom de "San Siro" et les interistes sous celui de "Giuseppe Meazza".
 - Lionel Messi est le seul footballeur de l'histoire à avoir remporté tous les titres majeurs au moins une fois, incluant la Coupe du monde, une compétition continentale avec sa sélection (Copa América), la Ligue des champions, un championnat national, une coupe nationale, une supercoupe nationale, une supercoupe continentale, les Jeux olympiques et le Ballon d'Or.
 - Rogério Ceni, gardien de football brésilien, a marqué 131 buts officiels au cours de sa carrière, principalement sur coups francs et penalties, établissant un record absolu à ce poste.
@@ -398,7 +414,7 @@
 ### 🏎️ Sport automobile
 
 - La course Paris-Rouen du 22 juillet 1894, organisée par "Le Petit Journal" sur environ 126 km, est reconnue comme la première course automobile officielle de l'histoire.
-- La Mille Miglia est souvent considérée comme la course automobile la plus longue jamais disputée, avec environ 1 600 km parcourus sur routes ouvertes en Italie.
+- La Mille Miglia, disputée sur routes ouvertes en Italie sur environ 1 600 km entre 1927 et 1957, est considérée comme l'une des courses automobiles les plus dangereuses et les plus légendaires de l'histoire.
 
 ### 🎾 Tennis
 

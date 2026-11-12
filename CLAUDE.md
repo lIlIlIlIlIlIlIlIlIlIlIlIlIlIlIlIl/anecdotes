@@ -42,6 +42,7 @@ These rules apply to **every file, every change**, without exception.
 
 ### Formatting
 
+- **Dashes**: always use the hyphen `-` for scores, ranges and oppositions (e.g., 142-0, 5-7, 1939-1940, Brésil-Italie); never use the en dash `–`
 - **Quotes**: always use straight double quotes `"` for highlighting terms within anecdotes, never French guillemets `«»`
 
 ### Style
